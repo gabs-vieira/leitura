@@ -12,10 +12,10 @@
   "news": {
     "Backend": [
       {
-        "titulo": "Pitch: 7 lições de um CLI que edita app.json, Podfile e Gradle sem estragar o projeto de ninguém",
-        "link": "https://www.tabnews.com.br/EspressoNotify/pitch-7-licoes-de-um-cli-que-edita-app-json-podfile-e-gradle-sem-estragar-o-projeto-de-ninguem",
-        "fonte": "TabNews",
-        "data": "2026-10-29T20:58:38+00:00"
+        "titulo": "London meetup",
+        "link": "https://lobste.rs/s/dsrruj/london_meetup",
+        "fonte": "Lobsters",
+        "data": "2026-10-29T20:56:43+00:00"
       },
       {
         "titulo": "Pitch: Verbo v0.1.0",
@@ -122,12 +122,6 @@
         "link": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
         "fonte": "Sean Goedecke",
         "data": "2026-10-29T00:00:00+00:00"
-      },
-      {
-        "titulo": "We're Renaming This Newsletter (and You Get First Word)",
-        "link": "https://newsletter.kentbeck.com/p/were-renaming-this-newsletter-and",
-        "fonte": "Tidy First? (Kent Beck)",
-        "data": "2026-10-28T13:04:05+00:00"
       },
       {
         "titulo": "Getting good at AI takes time and practice",
