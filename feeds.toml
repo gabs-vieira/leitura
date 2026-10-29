@@ -1,0 +1,201 @@
+# tipo = "funda"   -> entra no sorteio da Leitura do dia (e também aparece nas notícias)
+# tipo = "noticia" -> só aparece nas notícias
+# tema precisa ser um dos listados em [config].temas
+
+[config]
+titulo = "Leitura"
+temas = ["Backend", "Databases", "Ciência da Computação", "IA", "Carreira"]
+dias_noticia = 2
+dias_funda = 45
+max_por_tema = 8
+
+# Backend
+[[feed]]
+nome = "Hacker News (200+ pts)"
+url = "https://hnrss.org/frontpage?points=200"
+tema = "Backend"
+tipo = "noticia"
+
+[[feed]]
+nome = "Lobsters"
+url = "https://lobste.rs/rss"
+tema = "Backend"
+tipo = "noticia"
+
+[[feed]]
+nome = "TLDR Tech"
+url = "https://tldr.tech/api/rss/tech"
+tema = "Backend"
+tipo = "noticia"
+
+[[feed]]
+nome = "InfoQ"
+url = "https://www.infoq.com/feed"
+tema = "Backend"
+tipo = "noticia"
+
+[[feed]]
+nome = "ByteByteGo"
+url = "https://blog.bytebytego.com/feed"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "Martin Fowler"
+url = "https://martinfowler.com/feed.atom"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "Cloudflare Blog"
+url = "https://blog.cloudflare.com/rss/"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "Netflix TechBlog"
+url = "https://netflixtechblog.com/feed"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "Engineering at Meta"
+url = "https://engineering.fb.com/feed/"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "Building Nubank"
+url = "https://building.nubank.com/feed/"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "AkitaOnRails"
+url = "https://akitaonrails.com/index.xml"
+tema = "Backend"
+tipo = "funda"
+
+[[feed]]
+nome = "TabNews"
+url = "https://www.tabnews.com.br/recentes/rss"
+tema = "Backend"
+tipo = "noticia"
+
+# Databases
+[[feed]]
+nome = "Planet PostgreSQL"
+url = "https://planet.postgresql.org/rss20.xml"
+tema = "Databases"
+tipo = "noticia"
+
+[[feed]]
+nome = "PlanetScale"
+url = "https://planetscale.com/blog/feed.atom"
+tema = "Databases"
+tipo = "funda"
+
+[[feed]]
+nome = "Phil Eaton"
+url = "https://notes.eatonphil.com/rss.xml"
+tema = "Databases"
+tipo = "funda"
+
+[[feed]]
+nome = "Murat Demirbas (Metadata)"
+url = "https://muratbuffalo.blogspot.com/feeds/posts/default"
+tema = "Databases"
+tipo = "funda"
+
+[[feed]]
+nome = "Marc Brooker"
+url = "https://brooker.co.za/blog/rss.xml"
+tema = "Databases"
+tipo = "funda"
+
+[[feed]]
+nome = "Andy Pavlo (CMU)"
+url = "https://www.cs.cmu.edu/~pavlo/blog/feed.xml"
+tema = "Databases"
+tipo = "funda"
+
+# Ciência da Computação
+[[feed]]
+nome = "Quanta (CS)"
+url = "https://www.quantamagazine.org/computer-science/feed/"
+tema = "Ciência da Computação"
+tipo = "funda"
+
+[[feed]]
+nome = "Dan Luu"
+url = "https://danluu.com/atom.xml"
+tema = "Ciência da Computação"
+tipo = "funda"
+
+[[feed]]
+nome = "Julia Evans"
+url = "https://jvns.ca/atom.xml"
+tema = "Ciência da Computação"
+tipo = "funda"
+
+# IA
+[[feed]]
+nome = "TLDR AI"
+url = "https://tldr.tech/api/rss/ai"
+tema = "IA"
+tipo = "noticia"
+
+[[feed]]
+nome = "Simon Willison"
+url = "https://simonwillison.net/atom/everything/"
+tema = "IA"
+tipo = "noticia"
+
+[[feed]]
+nome = "Latent Space"
+url = "https://www.latent.space/feed"
+tema = "IA"
+tipo = "funda"
+
+[[feed]]
+nome = "Import AI"
+url = "https://importai.substack.com/feed"
+tema = "IA"
+tipo = "funda"
+
+[[feed]]
+nome = "Eugene Yan"
+url = "https://eugeneyan.com/rss/"
+tema = "IA"
+tipo = "funda"
+
+# Carreira
+[[feed]]
+nome = "The Pragmatic Engineer"
+url = "https://newsletter.pragmaticengineer.com/feed"
+tema = "Carreira"
+tipo = "funda"
+
+[[feed]]
+nome = "Irrational Exuberance (Will Larson)"
+url = "https://lethain.com/feeds.xml"
+tema = "Carreira"
+tipo = "funda"
+
+[[feed]]
+nome = "charity.wtf"
+url = "https://charity.wtf/feed/"
+tema = "Carreira"
+tipo = "funda"
+
+[[feed]]
+nome = "Tidy First? (Kent Beck)"
+url = "https://tidyfirst.substack.com/feed"
+tema = "Carreira"
+tipo = "funda"
+
+[[feed]]
+nome = "Sean Goedecke"
+url = "https://www.seangoedecke.com/rss.xml"
+tema = "Carreira"
+tipo = "funda"

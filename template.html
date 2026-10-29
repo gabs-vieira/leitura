@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{titulo}} · {{data}}</title>
+  <style>
+    :root {
+      --bg: #fbfaf7; --fg: #1d1d1f; --muted: #6b6b70; --line: #e6e3dc;
+      --accent: #2f5d50; --card: #ffffff;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root { --bg: #151517; --fg: #ececee; --muted: #9a9aa2; --line: #2a2a2e; --accent: #8cc7b4; --card: #1d1d20; }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0; background: var(--bg); color: var(--fg);
+      font: 17px/1.55 -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    main { max-width: 720px; margin: 0 auto; padding: 32px 20px 64px; }
+    header h1 { margin: 0; font-size: 28px; letter-spacing: -0.02em; }
+    header p { margin: 4px 0 0; color: var(--muted); font-size: 14px; }
+    a { color: inherit; text-decoration-color: var(--line); text-underline-offset: 3px; }
+    a:hover { color: var(--accent); text-decoration-color: currentColor; }
+    .meta { color: var(--muted); font-size: 13px; }
+    .label { margin: 0 0 6px; color: var(--accent); font-size: 12px; font-weight: 700; letter-spacing: 0.08em; text-transform: uppercase; }
+    .deep { margin: 28px 0 8px; padding: 24px; background: var(--card); border: 1px solid var(--line); border-radius: 12px; }
+    .deep h2 { margin: 0 0 4px; font-size: 22px; line-height: 1.3; }
+    .deep .resumo { color: var(--muted); }
+    .pergunta { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--line); }
+    .pergunta p { margin: 0 0 10px; }
+    textarea {
+      width: 100%; min-height: 96px; padding: 10px 12px; resize: vertical;
+      background: var(--bg); color: var(--fg); border: 1px solid var(--line); border-radius: 8px; font: inherit; font-size: 15px;
+    }
+    textarea:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+    nav { position: sticky; top: 0; z-index: 1; margin: 24px -20px 0; padding: 10px 20px; background: var(--bg); border-bottom: 1px solid var(--line); font-size: 14px; overflow-x: auto; white-space: nowrap; }
+    nav a { margin-right: 14px; text-decoration: none; color: var(--muted); }
+    nav a:hover { color: var(--accent); }
+    section h3 { margin: 32px 0 8px; font-size: 13px; color: var(--muted); letter-spacing: 0.08em; text-transform: uppercase; scroll-margin-top: 56px; }
+    ul { margin: 0; padding: 0; list-style: none; }
+    li { padding: 10px 0; border-bottom: 1px solid var(--line); }
+    li .meta { display: block; margin-top: 2px; }
+    .anteriores li { display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+    .anteriores li .meta { display: inline; margin: 0; }
+    footer { margin-top: 40px; color: var(--muted); font-size: 13px; }
+  </style>
+</head>
+<body>
+  <main>
+    <header>
+      <h1>{{titulo}}</h1>
+      <p>{{data}}</p>
+    </header>
+{{deep}}
+    <nav>{{nav}} <a href="#anteriores">Leituras anteriores</a></nav>
+{{secoes}}
+    <section id="anteriores" class="anteriores">
+      <h3>Leituras anteriores</h3>
+      <ul>
+{{anteriores}}
+      </ul>
+    </section>
+    <footer>Atualizado em {{gerado}}</footer>
+  </main>
+  <script>
+    const t = document.getElementById("resposta");
+    if (t) {
+      t.value = localStorage.getItem(t.dataset.key) || "";
+      t.addEventListener("input", () => localStorage.setItem(t.dataset.key, t.value));
+    }
+  </script>
+</body>
+</html>
