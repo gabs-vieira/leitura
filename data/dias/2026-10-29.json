@@ -1,0 +1,184 @@
+{
+  "deep": {
+    "data": "2026-10-29",
+    "titulo": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+    "link": "https://latent.space/p/elorian/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "This month Elorian launched its first visual reasoning model , Glimpse . It’s being promoted as “a new category of visual thinking model: a system that reasons about the physical world from what it sees.” View post on X…",
+    "minutos": 5,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Pitch: 7 lições de um CLI que edita app.json, Podfile e Gradle sem estragar o projeto de ninguém",
+        "link": "https://www.tabnews.com.br/EspressoNotify/pitch-7-licoes-de-um-cli-que-edita-app-json-podfile-e-gradle-sem-estragar-o-projeto-de-ninguem",
+        "fonte": "TabNews",
+        "data": "2026-10-29T20:58:38+00:00"
+      },
+      {
+        "titulo": "Pitch: Verbo v0.1.0",
+        "link": "https://www.tabnews.com.br/pedrodev2026/pitch-verbo-v0-1-0",
+        "fonte": "TabNews",
+        "data": "2026-10-29T20:35:45+00:00"
+      },
+      {
+        "titulo": "C2PA's eMudhra Moment",
+        "link": "https://www.da.vidbuchanan.co.uk/blog/c2pa-four.html",
+        "fonte": "Lobsters",
+        "data": "2026-10-29T20:33:44+00:00"
+      },
+      {
+        "titulo": "Ex-CEO do GitHub lança o Entire",
+        "link": "https://www.tabnews.com.br/elyosemite/ex-ceo-do-github-lanca-o-entire",
+        "fonte": "TabNews",
+        "data": "2026-10-29T20:29:50+00:00"
+      },
+      {
+        "titulo": "Patrick Stewart has died",
+        "link": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-10-29T19:41:39+00:00"
+      },
+      {
+        "titulo": "Pitch: criei um gerador de exercícios com gabarito para ajudar minha filha a estudar, e agora ele está aberto para todo mundo",
+        "link": "https://www.tabnews.com.br/linuxsoares/pitch-criei-um-gerador-de-exercicios-com-gabarito-para-ajudar-minha-filha-a-estudar-e-agora-ele-esta-aberto-para-todo-mundo",
+        "fonte": "TabNews",
+        "data": "2026-10-29T19:30:22+00:00"
+      },
+      {
+        "titulo": "[Opinião Publica] - O que você pensam sobre o trabalho do Fábio Akita na comunidade?",
+        "link": "https://www.tabnews.com.br/elyosemite/opiniao-publica-o-que-voce-pensam-sobre-o-trabalho-do-fabio-akita-na-comunidade",
+        "fonte": "TabNews",
+        "data": "2026-10-29T19:21:33+00:00"
+      },
+      {
+        "titulo": "IPO da Anthropic",
+        "link": "https://www.tabnews.com.br/elyosemite/ipo-da-anthropic-concorda-ou-discorda",
+        "fonte": "TabNews",
+        "data": "2026-10-29T19:15:05+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Building a multiplayer game world with autonomous Fable-class models",
+        "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-29T17:00:26+00:00"
+      },
+      {
+        "titulo": "Quoting Ben Hylak",
+        "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-29T14:06:27+00:00"
+      },
+      {
+        "titulo": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
+        "link": "https://latent.space/p/ainews-gemini-4-carbon/",
+        "fonte": "Latent Space",
+        "data": "2026-10-29T05:55:19+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Carbon 🌱, Nemotron Transcribe 📝, benchmarker’s dilemma ❓",
+        "link": "https://tldr.tech/ai/2026-10-29",
+        "fonte": "TLDR AI",
+        "data": "2026-10-29T00:00:00+00:00"
+      },
+      {
+        "titulo": "Quoting Ted Sanders",
+        "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-28T23:23:21+00:00"
+      },
+      {
+        "titulo": "Why Agents Love Supabase",
+        "link": "https://latent.space/p/supabase/",
+        "fonte": "Latent Space",
+        "data": "2026-10-28T19:48:05+00:00"
+      },
+      {
+        "titulo": "GitHub Octoverse 2026",
+        "link": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-28T16:45:23+00:00"
+      },
+      {
+        "titulo": "The October inflection point for vibe game development",
+        "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-28T13:55:15+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Software engineering at Google & CS education with Titus Winters",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-at-google-and",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-10-29T13:37:13+00:00"
+      },
+      {
+        "titulo": "You can just ask AI to do things",
+        "link": "https://seangoedecke.com/you-can-just-ask-ai-to-do-things/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-10-29T00:00:00+00:00"
+      },
+      {
+        "titulo": "We're Renaming This Newsletter (and You Get First Word)",
+        "link": "https://newsletter.kentbeck.com/p/were-renaming-this-newsletter-and",
+        "fonte": "Tidy First? (Kent Beck)",
+        "data": "2026-10-28T13:04:05+00:00"
+      },
+      {
+        "titulo": "Getting good at AI takes time and practice",
+        "link": "https://seangoedecke.com/getting-good-at-ai-takes-time-and-practice/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-10-28T00:00:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Munaf Khatri: Supabase is one part of your HIPAA compliance",
+        "link": "https://postgr.es/p/9AA",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-29T12:00:00+00:00"
+      },
+      {
+        "titulo": "Designing a planned switchover for minimum disruption",
+        "link": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+        "fonte": "PlanetScale",
+        "data": "2026-10-29T00:00:00+00:00"
+      },
+      {
+        "titulo": "NYC",
+        "link": "http://notes.eatonphil.com/2026-10-29-nyc.html",
+        "fonte": "Phil Eaton",
+        "data": "2026-10-29T00:00:00+00:00"
+      },
+      {
+        "titulo": "Igor Suhorukov: Which language should an AI agent use to search its memory: SQL or SPARQL?",
+        "link": "https://postgr.es/p/9Al",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-28T09:24:17+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: Dump/restore done. Now what?",
+        "link": "https://postgr.es/p/9Af",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-28T04:30:25+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: restore_command",
+        "link": "https://postgr.es/p/9Ae",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-28T01:00:00+00:00"
+      },
+      {
+        "titulo": "Chris van Eijk: no pg_hba.conf entry for host: what it means, measured",
+        "link": "https://postgr.es/p/9Ad",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-28T00:00:00+00:00"
+      }
+    ]
+  }
+}

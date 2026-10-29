@@ -6,7 +6,7 @@ import json
 import re
 import tomllib
 from concurrent.futures import ThreadPoolExecutor
-from datetime import datetime, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from urllib.parse import urlsplit, urlunsplit
 from zoneinfo import ZoneInfo
@@ -16,6 +16,7 @@ import feedparser
 ROOT = Path(__file__).parent
 SITE = ROOT / "site"
 HISTORY = ROOT / "data" / "history.json"
+DIAS = ROOT / "data" / "dias"
 TZ = ZoneInfo("America/Sao_Paulo")
 USER_AGENT = "Mozilla/5.0 (leitura; +https://github.com/gabs-vieira/leitura)"
 
@@ -136,7 +137,7 @@ def fmt_data(d):
     return d.astimezone(TZ).strftime("%d/%m %H:%M")
 
 
-def render(cfg, deep, news, history, gerado):
+def render(cfg, dia, deep, news, dias, gerado, raiz):
     c = cfg["config"]
     if deep:
         meta = f"{e(deep['fonte'])} · {e(deep['tema'])}"
@@ -154,7 +155,7 @@ def render(cfg, deep, news, history, gerado):
       </div>
     </section>"""
     else:
-        deep_html = '<section class="deep"><p>Sem leitura nova hoje.</p></section>'
+        deep_html = '<section class="deep"><p>Sem leitura nova neste dia.</p></section>'
 
     nav = " ".join(f'<a href="#{slug(t)}">{e(t)}</a>' for t in c["temas"] if news.get(t))
     secoes = []
@@ -165,29 +166,36 @@ def render(cfg, deep, news, history, gerado):
         lis = "\n".join(
             f"""        <li>
           <a href="{e(i['link'])}" target="_blank" rel="noopener">{e(i['titulo'])}</a>
-          <span class="meta">{e(i['fonte'])} · {fmt_data(i['data'])}</span>
+          <span class="meta">{e(i['fonte'])} · {fmt_data(datetime.fromisoformat(i['data']))}</span>
         </li>"""
             for i in lista
         )
         secoes.append(f'    <section id="{slug(tema)}">\n      <h3>{e(tema)}</h3>\n      <ul>\n{lis}\n      </ul>\n    </section>')
 
+    prefixo = "dias/" if raiz else ""
     anteriores = "\n".join(
-        f'        <li><span class="meta">{h["data"][8:10]}/{h["data"][5:7]}</span> '
-        f'<a href="{e(h["link"])}" target="_blank" rel="noopener">{e(h["titulo"])}</a> '
-        f'<span class="meta">{e(h["fonte"])}</span></li>'
-        for h in history[1:15]
+        f'        <li><a href="{prefixo}{d}.html">{fmt_dia(d)}</a> '
+        f'<span class="meta">{e(titulo)}</span></li>'
+        for d, titulo in dias
+        if d != dia.isoformat()
     )
+    voltar = "" if raiz else '<a href="../">← Hoje</a> · '
 
     template = (ROOT / "template.html").read_text()
     return (
         template.replace("{{titulo}}", e(c["titulo"]))
-        .replace("{{data}}", gerado.strftime("%d/%m/%Y"))
+        .replace("{{data}}", dia.strftime("%d/%m/%Y"))
+        .replace("{{voltar}}", voltar)
         .replace("{{gerado}}", gerado.strftime("%d/%m/%Y %H:%M"))
         .replace("{{deep}}", deep_html)
         .replace("{{nav}}", nav)
         .replace("{{secoes}}", "\n".join(secoes))
         .replace("{{anteriores}}", anteriores or "        <li>Nada ainda.</li>")
     )
+
+
+def fmt_dia(iso):
+    return f"{iso[8:10]}/{iso[5:7]}/{iso[:4]}"
 
 
 def slug(s):
@@ -216,11 +224,27 @@ def main():
         if len(lista) < c["max_por_tema"]:
             lista.append(i)
 
-    SITE.mkdir(exist_ok=True)
-    (SITE / "index.html").write_text(render(cfg, deep, news, history, agora))
-    HISTORY.parent.mkdir(exist_ok=True)
+    hoje = agora.date().isoformat()
+    DIAS.mkdir(parents=True, exist_ok=True)
+    snapshot = {
+        "deep": deep,
+        "news": {
+            tema: [{k: i[k] for k in ("titulo", "link", "fonte")} | {"data": i["data"].isoformat()} for i in lista]
+            for tema, lista in news.items()
+        },
+    }
+    (DIAS / f"{hoje}.json").write_text(json.dumps(snapshot, ensure_ascii=False, indent=2) + "\n")
     HISTORY.write_text(json.dumps(history[:365], ensure_ascii=False, indent=2) + "\n")
-    print(f"OK: {sum(map(len, news.values()))} notícias, leitura: {deep['titulo'] if deep else '-'}")
+
+    snapshots = {f.stem: json.loads(f.read_text()) for f in sorted(DIAS.glob("*.json"), reverse=True)}
+    dias = [(d, (s["deep"] or {}).get("titulo", "")) for d, s in snapshots.items()]
+    (SITE / "dias").mkdir(parents=True, exist_ok=True)
+    for d, snap in snapshots.items():
+        dia = date.fromisoformat(d)
+        (SITE / "dias" / f"{d}.html").write_text(render(cfg, dia, snap["deep"], snap["news"], dias, agora, raiz=False))
+    hoje_snap = snapshots[hoje]
+    (SITE / "index.html").write_text(render(cfg, agora.date(), hoje_snap["deep"], hoje_snap["news"], dias, agora, raiz=True))
+    print(f"OK: {sum(map(len, news.values()))} notícias, leitura: {deep['titulo'] if deep else '-'}, {len(dias)} dias no arquivo")
 
 
 if __name__ == "__main__":
