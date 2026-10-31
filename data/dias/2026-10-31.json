@@ -1,0 +1,154 @@
+{
+  "deep": {
+    "data": "2026-10-31",
+    "titulo": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "fonte": "Cloudflare Blog",
+    "tema": "Backend",
+    "resumo": "On October 19, 2026, we learned about eMudhra’s eight shockingly weak keys: where eMudhra was trusted to pick a 115-digit number for their virtual combination lock protecting the Internet, they picked the number 4. Not…",
+    "minutos": 7,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Somar e subtrair horas em JavaScript sem Date: o truque de converter tudo para segundos",
+        "link": "https://www.tabnews.com.br/versemedia/somar-e-subtrair-horas-em-javascript-sem-date-o-truque-de-converter-tudo-para-segundos",
+        "fonte": "TabNews",
+        "data": "2026-10-31T14:08:14+00:00"
+      },
+      {
+        "titulo": "O que é ComfyUI? Entenda workflows de geração de imagens com IA",
+        "link": "https://www.tabnews.com.br/anderslee/o-que-e-comfyui-entenda-workflows-de-geracao-de-imagens-com-ia",
+        "fonte": "TabNews",
+        "data": "2026-10-31T14:00:05+00:00"
+      },
+      {
+        "titulo": "Jepsen: ParticleDB 1.1.4",
+        "link": "https://jepsen.io/analyses/particledb-1.1.4",
+        "fonte": "Lobsters",
+        "data": "2026-10-31T13:39:52+00:00"
+      },
+      {
+        "titulo": "Spring News Roundup: First Release Candidates of Boot, Framework, Data, Security, Modulith, AI",
+        "link": "https://www.infoq.com/news/2026/10/spring-news-roundup-oct19-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-10-31T13:30:00+00:00"
+      },
+      {
+        "titulo": "Next.js middleware e sessão do Supabase: 6 erros que deslogam o usuário depois do deploy",
+        "link": "https://www.tabnews.com.br/massvaiteam/next-js-middleware-e-sessao-do-supabase-6-erros-que-deslogam-o-usuario-depois-do-deploy",
+        "fonte": "TabNews",
+        "data": "2026-10-31T13:19:13+00:00"
+      },
+      {
+        "titulo": "Pitch: uma API para o seu app consultar a memória do próprio usuário, com consentimento por fonte e citação das fontes",
+        "link": "https://www.tabnews.com.br/AdaCognitiaAI/pitch-uma-api-para-o-seu-app-consultar-a-memoria-do-proprio-usuario-com-consentimento-por-fonte-e-citacao-das-fontes",
+        "fonte": "TabNews",
+        "data": "2026-10-31T12:25:41+00:00"
+      },
+      {
+        "titulo": "Digital minimalism",
+        "link": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+        "fonte": "Lobsters",
+        "data": "2026-10-31T11:10:19+00:00"
+      },
+      {
+        "titulo": "Marelleo, a story box I built for my kids",
+        "link": "https://zebra.rodeo/en/blog/marelleo/",
+        "fonte": "Lobsters",
+        "data": "2026-10-31T10:36:46+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+        "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "fonte": "Latent Space",
+        "data": "2026-10-31T05:00:48+00:00"
+      },
+      {
+        "titulo": "dbreunig/nesformer",
+        "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-30T21:59:22+00:00"
+      },
+      {
+        "titulo": "[AINews] Building AIE CODE: The top Coding Agent Conference",
+        "link": "https://latent.space/p/ainews-building-aie-code-the-top-coding-agent-conference/",
+        "fonte": "Latent Space",
+        "data": "2026-10-30T08:24:29+00:00"
+      },
+      {
+        "titulo": "Mistral Large 4 OSS 🧠, agent swarm behavior 🤖, Sam Altman interview 🍺f",
+        "link": "https://tldr.tech/ai/2026-10-30",
+        "fonte": "TLDR AI",
+        "data": "2026-10-30T00:00:00+00:00"
+      },
+      {
+        "titulo": "API credits benefit for eligible ChatGPT subscriptions",
+        "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-29T22:48:29+00:00"
+      },
+      {
+        "titulo": "Building a multiplayer game world with autonomous Fable-class models",
+        "link": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-29T17:00:26+00:00"
+      },
+      {
+        "titulo": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+        "link": "https://latent.space/p/elorian/",
+        "fonte": "Latent Space",
+        "data": "2026-10-29T16:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Pulse: Anthropic kills the coding interview",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-10-30T16:37:51+00:00"
+      },
+      {
+        "titulo": "Self-reinforcing quality / adopting verification pattern",
+        "link": "https://lethain.com/adopting-verification-pattern/",
+        "fonte": "Irrational Exuberance (Will Larson)",
+        "data": "2026-10-30T12:00:00+00:00"
+      },
+      {
+        "titulo": "Elegance and intelligence are anticorrelated",
+        "link": "https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-10-30T00:00:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree",
+        "link": "https://postgr.es/p/9AF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T16:07:00+00:00"
+      },
+      {
+        "titulo": "Shaun Thomas: Burnt TOAST",
+        "link": "https://postgr.es/p/9AD",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T16:04:25+00:00"
+      },
+      {
+        "titulo": "Robert Haas: Postgres 19 is late, and it's AI's fault",
+        "link": "https://postgr.es/p/9AC",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T15:53:50+00:00"
+      },
+      {
+        "titulo": "Regina Obe: PostGIS 3.7.0",
+        "link": "https://postgr.es/p/9AE",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T00:00:00+00:00"
+      }
+    ]
+  }
+}

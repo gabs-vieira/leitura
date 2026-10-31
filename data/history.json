@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-10-31",
+    "titulo": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
+    "link": "https://blog.cloudflare.com/emudhra-patching/",
+    "fonte": "Cloudflare Blog",
+    "tema": "Backend",
+    "resumo": "On October 19, 2026, we learned about eMudhra’s eight shockingly weak keys: where eMudhra was trusted to pick a 115-digit number for their virtual combination lock protecting the Internet, they picked the number 4. Not…",
+    "minutos": 7,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  {
     "data": "2026-10-30",
     "titulo": "Elegance and intelligence are anticorrelated",
     "link": "https://seangoedecke.com/elegance-and-intelligence-are-anticorrelated/",
