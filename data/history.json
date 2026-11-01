@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-01",
+    "titulo": "Designing a planned switchover for minimum disruption",
+    "link": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "A Neki shard consists of one Postgres primary and multiple replicas. The primary accepts writes; the replicas do not. From time to time, we need one of those replicas to take over as the primary. We may be replacing a…",
+    "minutos": 7,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  {
     "data": "2026-10-31",
     "titulo": "4 real? Tracking exploitation and patching of eMudhra’s weak keys",
     "link": "https://blog.cloudflare.com/emudhra-patching/",

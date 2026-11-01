@@ -1,0 +1,148 @@
+{
+  "deep": {
+    "data": "2026-11-01",
+    "titulo": "Designing a planned switchover for minimum disruption",
+    "link": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "A Neki shard consists of one Postgres primary and multiple replicas. The primary accepts writes; the replicas do not. From time to time, we need one of those replicas to take over as the primary. We may be replacing a…",
+    "minutos": 7,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Dead Internet theory",
+        "link": "https://en.wikipedia.org/wiki/Dead_Internet_theory",
+        "fonte": "Lobsters",
+        "data": "2026-11-01T15:24:56+00:00"
+      },
+      {
+        "titulo": "An outsider's perspective on Scion and Mononoke",
+        "link": "https://typesanitizer.com/blog/scion.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-01T15:22:36+00:00"
+      },
+      {
+        "titulo": "groff/troff macros: ms, mm, me or mom",
+        "link": "https://www.stephenlindholm.com/groff_macros.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-01T14:09:09+00:00"
+      },
+      {
+        "titulo": "Jogo Guerra do Paraguai",
+        "link": "https://www.tabnews.com.br/zoenix/jogo-guerra-do-paraguai",
+        "fonte": "TabNews",
+        "data": "2026-11-01T12:54:15+00:00"
+      },
+      {
+        "titulo": "Pitch: Plain Deck, flashcards no Obsidian - com progresso salvo na própria nota",
+        "link": "https://www.tabnews.com.br/willybr/pitch-plain-deck-flashcards-no-obsidian-com-progresso-salvo-na-propria-nota",
+        "fonte": "TabNews",
+        "data": "2026-11-01T12:44:08+00:00"
+      },
+      {
+        "titulo": "Beating the compiler at signed 32-bit division",
+        "link": "https://lemire.me/blog/2026/10/31/beating-the-compiler-at-signed-32-bit-division/",
+        "fonte": "Lobsters",
+        "data": "2026-11-01T12:26:07+00:00"
+      },
+      {
+        "titulo": "[Pitch] Redesenhei o Quickpost inteiro e lancei a versão 2.0",
+        "link": "https://www.tabnews.com.br/Random241/pitch-redesenhei-o-quickpost-inteiro-e-lancei-a-versao-2-0",
+        "fonte": "TabNews",
+        "data": "2026-11-01T11:46:03+00:00"
+      },
+      {
+        "titulo": "No AI, 52 min. Build all Linux Files utils in C by Hand",
+        "link": "https://www.youtube.com/watch?v=gQRmSlcTq9c",
+        "fonte": "Lobsters",
+        "data": "2026-11-01T11:06:14+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: row_security",
+        "link": "https://postgr.es/p/9AL",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-01T14:00:00+00:00"
+      },
+      {
+        "titulo": "Vadim Yatsenko: Splitting the Read-Only Transaction: Replica Reads Inside an Open Transaction",
+        "link": "https://postgr.es/p/9AK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-01T08:37:13+00:00"
+      },
+      {
+        "titulo": "Radim Marek: Getting rid of a 4 TB table in PostgreSQL",
+        "link": "https://postgr.es/p/9AI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-31T22:00:50+00:00"
+      },
+      {
+        "titulo": "Igor Suhorukov: pg_vexec one month on: ahead of ClickHouse on Parquet, close behind on MergeTree",
+        "link": "https://postgr.es/p/9AF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T16:07:00+00:00"
+      },
+      {
+        "titulo": "Shaun Thomas: Burnt TOAST",
+        "link": "https://postgr.es/p/9AD",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T16:04:25+00:00"
+      },
+      {
+        "titulo": "Robert Haas: Postgres 19 is late, and it's AI's fault",
+        "link": "https://postgr.es/p/9AC",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-30T15:53:50+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Fast and slow ways to improve your reputation",
+        "link": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-01T00:00:00+00:00"
+      },
+      {
+        "titulo": "The Pulse: Anthropic kills the coding interview",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-anthropic-kills-the-coding",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-10-30T16:37:51+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "How We Took Over ChatGPT Accounts",
+        "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-31T23:15:22+00:00"
+      },
+      {
+        "titulo": "datasette-llm 0.1a9",
+        "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-31T22:10:01+00:00"
+      },
+      {
+        "titulo": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
+        "link": "https://latent.space/p/arca/",
+        "fonte": "Latent Space",
+        "data": "2026-10-31T16:05:00+00:00"
+      },
+      {
+        "titulo": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+        "link": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c/",
+        "fonte": "Latent Space",
+        "data": "2026-10-31T05:00:48+00:00"
+      },
+      {
+        "titulo": "dbreunig/nesformer",
+        "link": "https://simonwillison.net/2026/Oct/30/nesformer/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-30T21:59:22+00:00"
+      }
+    ]
+  }
+}
