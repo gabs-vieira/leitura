@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-02",
+    "titulo": "“We should be more ambitious with the software we build”",
+    "link": "https://danluu.com/ambitious/",
+    "fonte": "Dan Luu",
+    "tema": "Ciência da Computação",
+    "resumo": "Since early this year, Michael Malis (of pgrust ) has been showing me interesting things he's done and saying [W]e should be more ambitious 1 with the software we build There is, understandably, a lot of skepticism…",
+    "minutos": 29,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  {
     "data": "2026-11-01",
     "titulo": "Designing a planned switchover for minimum disruption",
     "link": "https://planetscale.com/blog/designing-a-planned-switchover-for-minimum-disruption",

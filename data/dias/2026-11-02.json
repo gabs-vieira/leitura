@@ -1,0 +1,166 @@
+{
+  "deep": {
+    "data": "2026-11-02",
+    "titulo": "“We should be more ambitious with the software we build”",
+    "link": "https://danluu.com/ambitious/",
+    "fonte": "Dan Luu",
+    "tema": "Ciência da Computação",
+    "resumo": "Since early this year, Michael Malis (of pgrust ) has been showing me interesting things he's done and saying [W]e should be more ambitious 1 with the software we build There is, understandably, a lot of skepticism…",
+    "minutos": 29,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Seu primeiro teste automatizado com Cypress, explicado pra quem nunca programou",
+        "link": "https://www.tabnews.com.br/ViniQA/seu-primeiro-teste-automatizado-com-cypress-explicado-pra-quem-nunca-programou",
+        "fonte": "TabNews",
+        "data": "2026-11-02T18:09:18+00:00"
+      },
+      {
+        "titulo": "There’s a microchip in my toothbrush. But WHY?",
+        "link": "https://youtu.be/aq0aTRG8YTE",
+        "fonte": "Lobsters",
+        "data": "2026-11-02T17:57:36+00:00"
+      },
+      {
+        "titulo": "Pitch: Assimetria de Roteamento e a Inviabilidade Matemática da Taxação por Gigabyte em Redes P2P",
+        "link": "https://www.tabnews.com.br/leonardobdev/pitch-assimetria-de-roteamento-e-a-inviabilidade-matematica-da-taxacao-por-gigabyte-em-redes-p2p",
+        "fonte": "TabNews",
+        "data": "2026-11-02T17:47:29+00:00"
+      },
+      {
+        "titulo": "Fiz um jogo de navegador onde você tenta fraudar a urna eletrônica (sem framework, som sintetizado na hora e uma regra: nenhuma defesa inventada)",
+        "link": "https://www.tabnews.com.br/nuvemdepassagem/fiz-um-jogo-de-navegador-onde-voce-tenta-fraudar-a-urna-eletronica-sem-framework-som-sintetizado-na-hora-e-uma-regra-nenhuma-defesa-inventada",
+        "fonte": "TabNews",
+        "data": "2026-11-02T17:46:14+00:00"
+      },
+      {
+        "titulo": "SignalR no .NET: do primeiro Hub à produção",
+        "link": "https://www.tabnews.com.br/lzocateli/signalr-no-net-do-primeiro-hub-a-producao",
+        "fonte": "TabNews",
+        "data": "2026-11-02T17:31:34+00:00"
+      },
+      {
+        "titulo": "Show HN: Subvocal – Talk to your computer without making noise",
+        "link": "https://subvocal.company/",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-11-02T17:16:17+00:00"
+      },
+      {
+        "titulo": "Google and Meta Open-source TorchTPU to Bring Native PyTorch Support to Google TPUs",
+        "link": "https://www.infoq.com/news/2026/11/torchtpu-native-pythorch-tpu/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-02T17:00:00+00:00"
+      },
+      {
+        "titulo": "Java News Roundup: TornadoVM 8.0, JNoSQL, Endive, JReleaser, JBang, LangChain4j, Quarkus Almanac",
+        "link": "https://www.infoq.com/news/2026/11/java-news-roundup-oct26-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-02T17:00:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Magnus Hagander: Nordic PGDay 2027 - Sponsorships for Nordic PGDay 2027 Are Now Open",
+        "link": "https://postgr.es/p/9AQ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T15:28:00+00:00"
+      },
+      {
+        "titulo": "Gabriele Bartolini: CloudNativePG reaches CNCF Incubation: another rung on the ladder",
+        "link": "https://postgr.es/p/9AP",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T13:36:58+00:00"
+      },
+      {
+        "titulo": "Vibhor Kumar: Autonomous Postgres at PGConf.EU 2026: From Scripts to Self-Driving, and the Primitives in Between",
+        "link": "https://postgr.es/p/9AO",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T10:48:29+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows",
+        "link": "https://postgr.es/p/9AN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T06:30:08+00:00"
+      },
+      {
+        "titulo": "Chris van Eijk: server closed the connection unexpectedly in PostgreSQL",
+        "link": "https://postgr.es/p/9AM",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T00:00:00+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: row_security",
+        "link": "https://postgr.es/p/9AL",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-01T14:00:00+00:00"
+      },
+      {
+        "titulo": "Vadim Yatsenko: Splitting the Read-Only Transaction: Replica Reads Inside an Open Transaction",
+        "link": "https://postgr.es/p/9AK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-01T08:37:13+00:00"
+      },
+      {
+        "titulo": "Radim Marek: Getting rid of a 4 TB table in PostgreSQL",
+        "link": "https://postgr.es/p/9AI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-10-31T22:00:50+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "The U.S. Census Bureau and “Super Intelligence”",
+        "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-02T13:31:26+00:00"
+      },
+      {
+        "titulo": "DeepSeek super agent 🤖, GPT-6 Rosalind 🧬, Google orbital compute 🛰️",
+        "link": "https://tldr.tech/ai/2026-11-02",
+        "fonte": "TLDR AI",
+        "data": "2026-11-02T00:00:00+00:00"
+      },
+      {
+        "titulo": "If in doubt, delete the uv.lock file",
+        "link": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-01T23:24:22+00:00"
+      },
+      {
+        "titulo": "Quoting Kyle Kingsbury",
+        "link": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-01T16:49:04+00:00"
+      },
+      {
+        "titulo": "How We Took Over ChatGPT Accounts",
+        "link": "https://simonwillison.net/2026/Oct/31/how-we-took-over-chatgpt-accounts/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-31T23:15:22+00:00"
+      },
+      {
+        "titulo": "datasette-llm 0.1a9",
+        "link": "https://simonwillison.net/2026/Oct/31/datasette-llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-10-31T22:10:01+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Reliably aligning LLMs is impossible in principle",
+        "link": "https://seangoedecke.com/alignment-is-impossible/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-02T00:00:00+00:00"
+      },
+      {
+        "titulo": "Fast and slow ways to improve your reputation",
+        "link": "https://seangoedecke.com/how-to-get-assigned-interesting-work/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-01T00:00:00+00:00"
+      }
+    ]
+  }
+}
