@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-03",
+    "titulo": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+    "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "Amid a deepening bear market for AI/tech (worthy of dark humor ) with Anthropic bonds receiving a “junk” rating and OpenAI fundraise headlines , we continue to see very surprising capability finds in the community, such…",
+    "minutos": 31,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  {
     "data": "2026-11-02",
     "titulo": "“We should be more ambitious with the software we build”",
     "link": "https://danluu.com/ambitious/",

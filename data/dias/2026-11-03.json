@@ -1,0 +1,184 @@
+{
+  "deep": {
+    "data": "2026-11-03",
+    "titulo": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+    "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "Amid a deepening bear market for AI/tech (worthy of dark humor ) with Anthropic bonds receiving a “junk” rating and OpenAI fundraise headlines , we continue to see very surprising capability finds in the community, such…",
+    "minutos": 31,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Aulão gratuito de Scrum, ITIL, COBIT e PMBOK",
+        "link": "https://www.tabnews.com.br/guiadeti/aulao-gratuito-de-scrum-itil-cobit-e-pmbok",
+        "fonte": "TabNews",
+        "data": "2026-11-03T16:42:26+00:00"
+      },
+      {
+        "titulo": "Planning with open variable lists in Gecode",
+        "link": "https://zayenz.se/blog/post/open-cp-in-gecode/",
+        "fonte": "Lobsters",
+        "data": "2026-11-03T16:33:43+00:00"
+      },
+      {
+        "titulo": "How Netflix Uses AI Agents for Performance Engineering",
+        "link": "https://blog.bytebytego.com/p/how-netflix-uses-ai-agents-for-performance",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-03T16:31:10+00:00"
+      },
+      {
+        "titulo": "A Second Futamura Projection",
+        "link": "https://blog.veitheller.de/A_Second_Futamura_Projection.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-03T16:14:27+00:00"
+      },
+      {
+        "titulo": "AI is destroying my CS degree",
+        "link": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
+        "fonte": "Lobsters",
+        "data": "2026-11-03T15:55:36+00:00"
+      },
+      {
+        "titulo": "Qual a melhor alternativa ao Excalidraw open source?",
+        "link": "https://www.tabnews.com.br/elyosemite/qual-a-melhor-alternativa-ao-excalidraw-open-source",
+        "fonte": "TabNews",
+        "data": "2026-11-03T15:32:30+00:00"
+      },
+      {
+        "titulo": "The Ubuntu 26.04 Rust sudo is not compatible with standard sudo",
+        "link": "https://utcc.utoronto.ca/~cks/space/blog/linux/Ubuntu2604RustSudoNotCompatible",
+        "fonte": "Lobsters",
+        "data": "2026-11-03T15:23:21+00:00"
+      },
+      {
+        "titulo": "Death comes for XSLT",
+        "link": "https://dbushell.com/2026/11/03/xslt-rip/",
+        "fonte": "Lobsters",
+        "data": "2026-11-03T15:19:50+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T16:29:48+00:00"
+      },
+      {
+        "titulo": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T05:32:25+00:00"
+      },
+      {
+        "titulo": "October sponsors-only newsletter",
+        "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T05:28:59+00:00"
+      },
+      {
+        "titulo": "Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄",
+        "link": "https://tldr.tech/ai/2026-11-03",
+        "fonte": "TLDR AI",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm 0.37",
+        "link": "https://simonwillison.net/2026/Nov/2/llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-02T23:49:30+00:00"
+      },
+      {
+        "titulo": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+        "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+        "fonte": "Latent Space",
+        "data": "2026-11-02T23:01:02+00:00"
+      },
+      {
+        "titulo": "Building Legal Agents When You Can't See the Data - Jacob Lauritzen, CTO of Legora",
+        "link": "https://latent.space/p/building_legal_agents_when_you_can_t_see_the_data_-_jacob_lauritzen_cto_of_legora/",
+        "fonte": "Latent Space",
+        "data": "2026-11-02T22:54:03+00:00"
+      },
+      {
+        "titulo": "The U.S. Census Bureau and “Super Intelligence”",
+        "link": "https://simonwillison.net/2026/Nov/2/census-bureau-super-intelligence/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-02T13:31:26+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Dave Stokes: Is PostgreSQL Really Winning?",
+        "link": "https://postgr.es/p/9AX",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T15:18:18+00:00"
+      },
+      {
+        "titulo": "Dimitri Fontaine: Postgres logical replication beyond one writer",
+        "link": "https://postgr.es/p/9AU",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T13:50:00+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Establishing the PostgreSQL Standard: PGConf.dev 2026 Part Two",
+        "link": "https://postgr.es/p/9AS",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T11:30:00+00:00"
+      },
+      {
+        "titulo": "Stefanie Janine: PostgreSQL Conference Europe Wrapup",
+        "link": "https://postgr.es/p/9AT",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T23:00:00+00:00"
+      },
+      {
+        "titulo": "Magnus Hagander: Nordic PGDay 2027 - Sponsorships for Nordic PGDay 2027 Are Now Open",
+        "link": "https://postgr.es/p/9AQ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T15:28:00+00:00"
+      },
+      {
+        "titulo": "Gabriele Bartolini: CloudNativePG reaches CNCF Incubation: another rung on the ladder",
+        "link": "https://postgr.es/p/9AP",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T13:36:58+00:00"
+      },
+      {
+        "titulo": "Vibhor Kumar: Autonomous Postgres at PGConf.EU 2026: From Scripts to Self-Driving, and the Primitives in Between",
+        "link": "https://postgr.es/p/9AO",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T10:48:29+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: Navicat 18 Review: Is It Worth It for PostgreSQL? Tested on 10M Rows",
+        "link": "https://postgr.es/p/9AN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T06:30:08+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "LLMs are not superhuman at reading and writing neural network weights",
+        "link": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "Audience capture",
+        "link": "https://seangoedecke.com/audience-capture/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "Reliably aligning LLMs is impossible in principle",
+        "link": "https://seangoedecke.com/alignment-is-impossible/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-02T00:00:00+00:00"
+      }
+    ]
+  }
+}
