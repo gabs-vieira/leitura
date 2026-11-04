@@ -1,0 +1,186 @@
+{
+  "deep": {
+    "data": "2026-11-04",
+    "titulo": "How software engineering is changing: a tale of two eras",
+    "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+    "fonte": "The Pragmatic Engineer",
+    "tema": "Carreira",
+    "resumo": "Before we start: I’m in San Francisco this week and there are a few remaining spots for these live events (registration required): Wednesday (4 Nov): The Pragmatic Engineer Unplugged at the iconic SFJAZZ Center. With…",
+    "minutos": 27,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "How Anthropic Redesigned Source Control",
+        "link": "https://blog.bytebytego.com/p/how-anthropic-redesigned-source-control",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-04T16:30:59+00:00"
+      },
+      {
+        "titulo": "Pitch: fiz um site que dá nota para o bairro de um Airbnb, não para o quarto",
+        "link": "https://www.tabnews.com.br/shouldistayhere/pitch-fiz-um-site-que-da-nota-para-o-bairro-de-um-airbnb-nao-para-o-quarto",
+        "fonte": "TabNews",
+        "data": "2026-11-04T16:22:55+00:00"
+      },
+      {
+        "titulo": "Arrows to Arrows, Categories to Queries",
+        "link": "https://reasonablypolymorphic.com/blog/arrows-to-arrows/",
+        "fonte": "Lobsters",
+        "data": "2026-11-04T15:49:15+00:00"
+      },
+      {
+        "titulo": "Shlemiel the Painter Is Back: How Zig’s libc Rewrite Made SQLite Slower",
+        "link": "https://dennisforbes.ca/blog/microblog/2026/10/the_accidental_12000x_sqlite_slowdown/",
+        "fonte": "Lobsters",
+        "data": "2026-11-04T15:23:09+00:00"
+      },
+      {
+        "titulo": "Hooks no Claude Code: exit 1 não bloqueia (e outros 5 detalhes que fazem o hook nunca disparar)",
+        "link": "https://www.tabnews.com.br/HenriqueFernandes/hooks-no-claude-code-exit-1-nao-bloqueia-e-outros-5-detalhes-que-fazem-o-hook-nunca-disparar",
+        "fonte": "TabNews",
+        "data": "2026-11-04T15:20:47+00:00"
+      },
+      {
+        "titulo": "Falsa entrevista de emprego facilitou roubo de 6,3 bilhões de dólares em criptomoedas da Binance por hackers norte-coreanos",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/falsa-entrevista-de-emprego-facilitou-roubo-de-6-3-bilhoes-de-dolares-em-criptomoedas-da-binance-por-hackers-norte-coreanos",
+        "fonte": "TabNews",
+        "data": "2026-11-04T15:00:08+00:00"
+      },
+      {
+        "titulo": "Your Cryptography Conspiracy Theory Is Wrong",
+        "link": "https://soatok.blog/2026/10/29/your-cryptography-conspiracy-theory-is-wrong/",
+        "fonte": "Lobsters",
+        "data": "2026-11-04T14:58:11+00:00"
+      },
+      {
+        "titulo": "Pitch: Como obriguei a IA a seguir o padrão do projeto com ESLint",
+        "link": "https://www.tabnews.com.br/lvsouzadev/como-obriguei-a-ia-a-seguir-o-padrao-do-projeto-com-eslint",
+        "fonte": "TabNews",
+        "data": "2026-11-04T14:57:27+00:00"
+      }
+    ],
+    "Ciência da Computação": [
+      {
+        "titulo": "New Research Tests Whether AI Models Know Their Own Thoughts",
+        "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "fonte": "Quanta (CS)",
+        "data": "2026-11-04T15:32:52+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Ilya Kosmodemiansky: The “default” postgresql.conf",
+        "link": "https://postgr.es/p/9A_",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T14:54:53+00:00"
+      },
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 43",
+        "link": "https://postgr.es/p/9AZ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T09:35:39+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Postgres Edinburgh October 2026 Meetup Recap",
+        "link": "https://postgr.es/p/9AY",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T18:16:00+00:00"
+      },
+      {
+        "titulo": "Dave Stokes: Is PostgreSQL Really Winning?",
+        "link": "https://postgr.es/p/9AX",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T15:18:18+00:00"
+      },
+      {
+        "titulo": "Dimitri Fontaine: Postgres logical replication beyond one writer",
+        "link": "https://postgr.es/p/9AU",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T13:50:00+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Establishing the PostgreSQL Standard: PGConf.dev 2026 Part Two",
+        "link": "https://postgr.es/p/9AS",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T11:30:00+00:00"
+      },
+      {
+        "titulo": "The hidden latency inside your database",
+        "link": "https://planetscale.com/blog/the-hidden-latency-inside-your-database",
+        "fonte": "PlanetScale",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "Stefanie Janine: PostgreSQL Conference Europe Wrapup",
+        "link": "https://postgr.es/p/9AT",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-02T23:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡",
+        "link": "https://tldr.tech/ai/2026-11-04",
+        "fonte": "TLDR AI",
+        "data": "2026-11-04T00:00:00+00:00"
+      },
+      {
+        "titulo": "Qwen 3.8 27B on my laptop can interpret model weights, too",
+        "link": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T16:29:48+00:00"
+      },
+      {
+        "titulo": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+        "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
+        "fonte": "Latent Space",
+        "data": "2026-11-03T05:35:00+00:00"
+      },
+      {
+        "titulo": "I discovered a sound that leaks your exact location (and it's everywhere) - YouTube",
+        "link": "https://simonwillison.net/2026/Nov/3/a-sound-that-leaks-your-exact-location/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T05:32:25+00:00"
+      },
+      {
+        "titulo": "October sponsors-only newsletter",
+        "link": "https://simonwillison.net/2026/Nov/3/october-newsletter/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T05:28:59+00:00"
+      },
+      {
+        "titulo": "Claude Message Threads 🧵, Astra 6.2 spotted 👀, Anthropic nears RSI 🔄",
+        "link": "https://tldr.tech/ai/2026-11-03",
+        "fonte": "TLDR AI",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm 0.37",
+        "link": "https://simonwillison.net/2026/Nov/2/llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-02T23:49:30+00:00"
+      },
+      {
+        "titulo": "Building AI for Lawyers - Jacob Lauritzen, CTO of Legora",
+        "link": "https://latent.space/p/building-ai-for-lawyers-jacob-lauritzen-cto-of-legora/",
+        "fonte": "Latent Space",
+        "data": "2026-11-02T23:01:02+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "LLMs are not superhuman at reading and writing neural network weights",
+        "link": "https://seangoedecke.com/llms-are-not-superhuman-at-reading-and-writing-neural-network-weights/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-03T00:00:00+00:00"
+      },
+      {
+        "titulo": "Audience capture",
+        "link": "https://seangoedecke.com/audience-capture/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-03T00:00:00+00:00"
+      }
+    ]
+  }
+}

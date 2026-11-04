@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-04",
+    "titulo": "How software engineering is changing: a tale of two eras",
+    "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",
+    "fonte": "The Pragmatic Engineer",
+    "tema": "Carreira",
+    "resumo": "Before we start: I’m in San Francisco this week and there are a few remaining spots for these live events (registration required): Wednesday (4 Nov): The Pragmatic Engineer Unplugged at the iconic SFJAZZ Center. With…",
+    "minutos": 27,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  {
     "data": "2026-11-03",
     "titulo": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
     "link": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of/",
