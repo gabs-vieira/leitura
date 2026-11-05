@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-05",
+    "titulo": "Fingerprinting: você não consegue enganar o 'algoritmo' como pensa",
+    "link": "https://www.akitaonrails.com/2026/11/04/fingerprinting-voce-nao-consegue-enganar-o-algoritmo-como-pensa/",
+    "fonte": "AkitaOnRails",
+    "tema": "Backend",
+    "resumo": "No artigo anterior sobre a descompilação do TikTok 47.7.1 , mostrei o tamanho da coleta que acontece dentro do aplicativo. Ele reenvia identificadores persistentes, monta um fingerprint do aparelho, mede pressão e…",
+    "minutos": 11,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  {
     "data": "2026-11-04",
     "titulo": "How software engineering is changing: a tale of two eras",
     "link": "https://newsletter.pragmaticengineer.com/p/how-software-engineering-is-changing",

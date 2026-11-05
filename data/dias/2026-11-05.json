@@ -1,0 +1,162 @@
+{
+  "deep": {
+    "data": "2026-11-05",
+    "titulo": "Fingerprinting: você não consegue enganar o 'algoritmo' como pensa",
+    "link": "https://www.akitaonrails.com/2026/11/04/fingerprinting-voce-nao-consegue-enganar-o-algoritmo-como-pensa/",
+    "fonte": "AkitaOnRails",
+    "tema": "Backend",
+    "resumo": "No artigo anterior sobre a descompilação do TikTok 47.7.1 , mostrei o tamanho da coleta que acontece dentro do aplicativo. Ele reenvia identificadores persistentes, monta um fingerprint do aparelho, mede pressão e…",
+    "minutos": 11,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Software Line Specialist",
+        "link": "https://lovro-bikic.github.io/software-line-specialist/",
+        "fonte": "Lobsters",
+        "data": "2026-11-05T16:32:29+00:00"
+      },
+      {
+        "titulo": "How Flink's Kafka connector commits offsets to Kafka",
+        "link": "https://dalelane.co.uk/blog/?p=6161",
+        "fonte": "Lobsters",
+        "data": "2026-11-05T16:31:51+00:00"
+      },
+      {
+        "titulo": "The Hidden Work Behind Every Database Request",
+        "link": "https://blog.bytebytego.com/p/the-hidden-work-behind-every-database",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-05T16:31:07+00:00"
+      },
+      {
+        "titulo": "Pitch: FitStreak, treinos de 5 minutos com um bichinho que cresce, e o bug do iOS 27 que quase nos derrubou",
+        "link": "https://www.tabnews.com.br/FitStreak/pitch-fitstreak-treinos-de-5-minutos-com-um-bichinho-que-cresce-e-o-bug-do-ios-27-que-quase-nos-derrubou",
+        "fonte": "TabNews",
+        "data": "2026-11-05T16:05:20+00:00"
+      },
+      {
+        "titulo": "Google Cloud API Gateway Introduces Streaming Support for Real-Time and AI-Powered Applications",
+        "link": "https://www.infoq.com/news/2026/11/gcp-api-gateway-streaming/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-05T16:00:00+00:00"
+      },
+      {
+        "titulo": "Leapwork Play Reaches GA with Governance for Playwright Tests",
+        "link": "https://www.infoq.com/news/2026/11/leapwork-play-playwright/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-05T15:56:00+00:00"
+      },
+      {
+        "titulo": "Fiz uma IA de sobrevivência que roda 100% offline, até num pendrive",
+        "link": "https://www.tabnews.com.br/soloo/fiz-uma-ia-de-sobrevivencia-que-roda-100-por-cento-offline-ate-num-pendrive",
+        "fonte": "TabNews",
+        "data": "2026-11-05T15:31:03+00:00"
+      },
+      {
+        "titulo": "Pitch: Concord: Como criei do zero um clone do Discord em Go e Tauri para contornar o bloqueio de streaming no Brasil",
+        "link": "https://www.tabnews.com.br/MatheusCorrea/concord-como-criei-do-zero-um-clone-do-discord-em-go-e-tauri-para-contornar-o-bloqueio-de-streaming-no-brasil",
+        "fonte": "TabNews",
+        "data": "2026-11-05T15:20:01+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Scaling Slack and GitHub with Maude Lemaire",
+        "link": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-05T15:58:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "SHRIDHAR KHANAL: PostgreSQL Minor Version Upgrade on RHEL 9: A Step-by-Step Guide with Rollback",
+        "link": "https://postgr.es/p/9B3",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T13:47:27+00:00"
+      },
+      {
+        "titulo": "Bruce Momjian: New Presentation",
+        "link": "https://postgr.es/p/9B1",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T17:00:00+00:00"
+      },
+      {
+        "titulo": "Ilya Kosmodemiansky: The “default” postgresql.conf",
+        "link": "https://postgr.es/p/9A_",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T14:54:53+00:00"
+      },
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 43",
+        "link": "https://postgr.es/p/9AZ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T09:35:39+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Postgres Edinburgh October 2026 Meetup Recap",
+        "link": "https://postgr.es/p/9AY",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-03T18:16:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] It's Swapping Season",
+        "link": "https://latent.space/p/ainews-it-s-swapping-season/",
+        "fonte": "Latent Space",
+        "data": "2026-11-05T06:24:09+00:00"
+      },
+      {
+        "titulo": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
+        "link": "https://tldr.tech/ai/2026-11-05",
+        "fonte": "TLDR AI",
+        "data": "2026-11-05T00:00:00+00:00"
+      },
+      {
+        "titulo": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+        "link": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-04T19:17:30+00:00"
+      },
+      {
+        "titulo": "datasette-llm 0.1a10",
+        "link": "https://simonwillison.net/2026/Nov/4/datasette-llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-04T15:26:02+00:00"
+      },
+      {
+        "titulo": "datasette-apps 0.3a0",
+        "link": "https://simonwillison.net/2026/Nov/4/datasette-apps/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-04T00:29:36+00:00"
+      },
+      {
+        "titulo": "Siri AI developer 🍎, Gemini Notebook API 👨‍💻, provable inference ⚡",
+        "link": "https://tldr.tech/ai/2026-11-04",
+        "fonte": "TLDR AI",
+        "data": "2026-11-04T00:00:00+00:00"
+      },
+      {
+        "titulo": "datasette-agent 0.5a0",
+        "link": "https://simonwillison.net/2026/Nov/3/datasette-agent/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T23:13:45+00:00"
+      },
+      {
+        "titulo": "llm 0.37.1",
+        "link": "https://simonwillison.net/2026/Nov/3/llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-03T21:41:42+00:00"
+      }
+    ],
+    "Ciência da Computação": [
+      {
+        "titulo": "New Research Tests Whether AI Models Know Their Own Thoughts",
+        "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+        "fonte": "Quanta (CS)",
+        "data": "2026-11-04T15:32:52+00:00"
+      }
+    ]
+  }
+}
