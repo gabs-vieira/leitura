@@ -1,0 +1,160 @@
+{
+  "deep": {
+    "data": "2026-11-06",
+    "titulo": "Designing a reliable unplanned failover",
+    "link": "https://planetscale.com/blog/designing-a-reliable-unplanned-failover",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "In Designing a planned switchover for minimum disruption , we discussed how Neki moves Postgres primaryship when all the participants are healthy. Admin, Neki's control plane, knows when the primary is going to step…",
+    "minutos": 9,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  "news": {
+    "Databases": [
+      {
+        "titulo": "Chris Travers: PostgreSQL, NUMA, and the Cloud",
+        "link": "https://postgr.es/p/9Bb",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-06T16:11:22+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: PGConf.EU 2026 MEGAPOST: a busy week in Valencia",
+        "link": "https://postgr.es/p/9B7",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T19:57:00+00:00"
+      },
+      {
+        "titulo": "Ahsan Hadi: Zero Downtime In-Place Major PostgreSQL Upgrades on a Distributed PostgreSQL Cluster",
+        "link": "https://postgr.es/p/9B4",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T16:35:55+00:00"
+      },
+      {
+        "titulo": "SHRIDHAR KHANAL: PostgreSQL Minor Version Upgrade on RHEL 9: A Step-by-Step Guide with Rollback",
+        "link": "https://postgr.es/p/9B3",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T13:47:27+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: UUIDv4 vs UUIDv7: what a random primary key costs in Postgres",
+        "link": "https://postgr.es/p/9B8",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T12:00:00+00:00"
+      },
+      {
+        "titulo": "Bruce Momjian: New Presentation",
+        "link": "https://postgr.es/p/9B1",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-04T17:00:00+00:00"
+      }
+    ],
+    "Backend": [
+      {
+        "titulo": "The MustCreate Pattern for Go Tests",
+        "link": "https://mtlynch.io/notes/go-must-create-pattern/",
+        "fonte": "Lobsters",
+        "data": "2026-11-06T15:37:00+00:00"
+      },
+      {
+        "titulo": "A imprensa disse que a falha zero-click do Android (CVE-2026-58868) está sob ataque. Fui ler o boletim oficial — não está.",
+        "link": "https://www.tabnews.com.br/gabrielfbaiano/a-imprensa-disse-que-a-falha-zero-click-do-android-cve-2026-58868-esta-sob-ataque-fui-ler-o-boletim-oficial-nao-esta",
+        "fonte": "TabNews",
+        "data": "2026-11-06T15:31:28+00:00"
+      },
+      {
+        "titulo": "Upgrading NetBSD from 11.0 to 11.1",
+        "link": "https://www.dwarmstrong.org/netbsd-upgrade/",
+        "fonte": "Lobsters",
+        "data": "2026-11-06T15:22:55+00:00"
+      },
+      {
+        "titulo": "Claude Code pelo celular: tmux mantém o processo, /resume traz a conversa e /remote-control dá a interface",
+        "link": "https://www.tabnews.com.br/bmarino01/claude-code-pelo-celular-tmux-mantem-o-processo-resume-traz-a-conversa-e-remote-control-da-a-interface",
+        "fonte": "TabNews",
+        "data": "2026-11-06T15:21:02+00:00"
+      },
+      {
+        "titulo": "OpenAI lança GPT-6 Cyber, focado em identificação e correção de vulnerabilidades",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/openai-lanca-gpt-6-cyber-focado-em-identificacao-e-correcao-de-vulnerabilidades",
+        "fonte": "TabNews",
+        "data": "2026-11-06T15:00:09+00:00"
+      },
+      {
+        "titulo": "CISA e FBI alertam para campanha cibernética global contra sistemas de refrigeração",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/cisa-e-fbi-alertam-para-campanha-cibernetica-global-contra-sistemas-de-refrigeracao",
+        "fonte": "TabNews",
+        "data": "2026-11-06T14:55:09+00:00"
+      },
+      {
+        "titulo": "Tesla encerrará a produção do Cybertruck em 2027",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/tesla-encerrara-a-producao-do-cybertruck-em-2027",
+        "fonte": "TabNews",
+        "data": "2026-11-06T14:50:08+00:00"
+      },
+      {
+        "titulo": "Pushing the Limits with getaddrinfo",
+        "link": "https://acid.vegas/blog/pushing-the-limits-with-getaddrinfo/",
+        "fonte": "Lobsters",
+        "data": "2026-11-06T14:47:48+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "fonte": "Latent Space",
+        "data": "2026-11-06T15:10:53+00:00"
+      },
+      {
+        "titulo": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "fonte": "Latent Space",
+        "data": "2026-11-06T10:35:21+00:00"
+      },
+      {
+        "titulo": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
+        "link": "https://tldr.tech/ai/2026-11-06",
+        "fonte": "TLDR AI",
+        "data": "2026-11-06T00:00:00+00:00"
+      },
+      {
+        "titulo": "Quoting Paul Ford",
+        "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-05T17:34:03+00:00"
+      },
+      {
+        "titulo": "[AINews] It's Swapping Season",
+        "link": "https://latent.space/p/ainews-it-s-swapping-season/",
+        "fonte": "Latent Space",
+        "data": "2026-11-05T06:24:09+00:00"
+      },
+      {
+        "titulo": "GPT-Image-2.6 🖼️, Meta buys Conductor 💻, Cognition SWE-2 Flash ⚡",
+        "link": "https://tldr.tech/ai/2026-11-05",
+        "fonte": "TLDR AI",
+        "data": "2026-11-05T00:00:00+00:00"
+      },
+      {
+        "titulo": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
+        "link": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-04T19:17:30+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "A database is a store for global variables",
+        "link": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-06T00:00:00+00:00"
+      },
+      {
+        "titulo": "Scaling Slack and GitHub with Maude Lemaire",
+        "link": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-05T15:58:00+00:00"
+      }
+    ]
+  }
+}

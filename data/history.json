@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-06",
+    "titulo": "Designing a reliable unplanned failover",
+    "link": "https://planetscale.com/blog/designing-a-reliable-unplanned-failover",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "In Designing a planned switchover for minimum disruption , we discussed how Neki moves Postgres primaryship when all the participants are healthy. Admin, Neki's control plane, knows when the primary is going to step…",
+    "minutos": 9,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  {
     "data": "2026-11-05",
     "titulo": "Fingerprinting: você não consegue enganar o 'algoritmo' como pensa",
     "link": "https://www.akitaonrails.com/2026/11/04/fingerprinting-voce-nao-consegue-enganar-o-algoritmo-como-pensa/",
