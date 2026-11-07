@@ -1,0 +1,160 @@
+{
+  "deep": {
+    "data": "2026-11-07",
+    "titulo": "Test and verification technique effectiveness with GPT-6 Astra",
+    "link": "https://danluu.com/astra-testing/",
+    "fonte": "Dan Luu",
+    "tema": "Ciência da Computação",
+    "resumo": "When we looked at how well agents used test/verification techniques in August 1 , we saw that GPT-5.6 Sol generally did what you might call a caricature of various techniques when asked to use a technique or library…",
+    "minutos": 19,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Alpine Linux : openssh-server password authentication bypass",
+        "link": "https://www.alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+        "fonte": "Lobsters",
+        "data": "2026-11-07T14:51:26+00:00"
+      },
+      {
+        "titulo": "Slack é caro demais",
+        "link": "https://www.tabnews.com.br/Jonhvmp/slack-e-caro-demais",
+        "fonte": "TabNews",
+        "data": "2026-11-07T14:39:54+00:00"
+      },
+      {
+        "titulo": "Pitch: Minha cópia de Project Zomboid é da GOG, então criei uma CLI para baixar mods do Steam Workshop",
+        "link": "https://www.tabnews.com.br/jvnascimento/minha-copia-de-project-zomboid-e-da-gog-entao-criei-uma-cli-para-baixar-mods-do-steam-workshop",
+        "fonte": "TabNews",
+        "data": "2026-11-07T13:32:00+00:00"
+      },
+      {
+        "titulo": "\"Como instalar o ComfyUI: Desktop, portátil ou manual\"",
+        "link": "https://www.tabnews.com.br/anderslee/como-instalar-o-comfyui-desktop-portatil-ou-manual",
+        "fonte": "TabNews",
+        "data": "2026-11-07T13:00:04+00:00"
+      },
+      {
+        "titulo": "Fiz um MMO idle de ninja que roda no navegador: Godot 4 + Node.js + SQLite num servidor de US$ 7",
+        "link": "https://www.tabnews.com.br/ninjaLegendsOficial/fiz-um-mmo-idle-de-ninja-que-roda-no-navegador-godot-4-node-js-sqlite-num-servidor-de-us-7",
+        "fonte": "TabNews",
+        "data": "2026-11-07T12:08:42+00:00"
+      },
+      {
+        "titulo": "How Grab Improved Mobile App Stability by Safely Handling Surge in AI-Generated Code Changes",
+        "link": "https://www.infoq.com/news/2026/11/grab-ai-generated-code-safety/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-07T11:00:00+00:00"
+      },
+      {
+        "titulo": "Upload Your RAM",
+        "link": "https://uploadyourram.org",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-11-07T10:15:26+00:00"
+      },
+      {
+        "titulo": "Open Source pg_vectorsearch Brings More Scalable Vector Search to PostgreSQL",
+        "link": "https://www.infoq.com/news/2026/11/postgresql-vector-search/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-07T09:49:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Writing as a thinking tool",
+        "link": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+        "fonte": "Murat Demirbas (Metadata)",
+        "data": "2026-11-07T08:22:10+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: scram_iterations",
+        "link": "https://postgr.es/p/9Bc",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-07T02:00:00+00:00"
+      },
+      {
+        "titulo": "Chris Travers: PostgreSQL, NUMA, and the Cloud",
+        "link": "https://postgr.es/p/9Bb",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-06T16:11:22+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: PGConf.EU 2026 MEGAPOST: a busy week in Valencia",
+        "link": "https://postgr.es/p/9B7",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T19:57:00+00:00"
+      },
+      {
+        "titulo": "Ahsan Hadi: Zero Downtime In-Place Major PostgreSQL Upgrades on a Distributed PostgreSQL Cluster",
+        "link": "https://postgr.es/p/9B4",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-05T16:35:55+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] Anthropic IPO: Whither Now?",
+        "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+        "fonte": "Latent Space",
+        "data": "2026-11-07T03:04:53+00:00"
+      },
+      {
+        "titulo": "Quoting Nilay Patel",
+        "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-06T17:13:12+00:00"
+      },
+      {
+        "titulo": "Controlling Biology - Fabian Theis, Helmholtz Munich",
+        "link": "https://latent.space/p/controlling-biology-fabian-theis-helmholtz-munich/",
+        "fonte": "Latent Space",
+        "data": "2026-11-06T15:10:53+00:00"
+      },
+      {
+        "titulo": "[AINews] Inkling 2 Small: 17A-594B trained in 68 hours on 12T tokens, beating Muse Spark",
+        "link": "https://latent.space/p/ainews-inkling-2-small-17a-594b-trained-in-68-hours-on-12t-tokens-beating-muse-spark/",
+        "fonte": "Latent Space",
+        "data": "2026-11-06T10:35:21+00:00"
+      },
+      {
+        "titulo": "Anthropic R&D accelerates 📈, GPT-6 Cyber 🔐, Inkling 2 Small 🧠",
+        "link": "https://tldr.tech/ai/2026-11-06",
+        "fonte": "TLDR AI",
+        "data": "2026-11-06T00:00:00+00:00"
+      },
+      {
+        "titulo": "Quoting Paul Ford",
+        "link": "https://simonwillison.net/2026/Nov/5/paul-ford/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-05T17:34:03+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Working with designers",
+        "link": "https://seangoedecke.com/working-with-designers/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-07T00:00:00+00:00"
+      },
+      {
+        "titulo": "The Pragmatic Summit 2027",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-06T19:39:15+00:00"
+      },
+      {
+        "titulo": "A database is a store for global variables",
+        "link": "https://seangoedecke.com/a-database-is-a-store-for-global-variables/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-06T00:00:00+00:00"
+      },
+      {
+        "titulo": "Scaling Slack and GitHub with Maude Lemaire",
+        "link": "https://newsletter.pragmaticengineer.com/p/scaling-slack-and-github-with-maude",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-05T15:58:00+00:00"
+      }
+    ]
+  }
+}

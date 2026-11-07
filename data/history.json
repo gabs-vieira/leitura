@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-07",
+    "titulo": "Test and verification technique effectiveness with GPT-6 Astra",
+    "link": "https://danluu.com/astra-testing/",
+    "fonte": "Dan Luu",
+    "tema": "Ciência da Computação",
+    "resumo": "When we looked at how well agents used test/verification techniques in August 1 , we saw that GPT-5.6 Sol generally did what you might call a caricature of various techniques when asked to use a technique or library…",
+    "minutos": 19,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  {
     "data": "2026-11-06",
     "titulo": "Designing a reliable unplanned failover",
     "link": "https://planetscale.com/blog/designing-a-reliable-unplanned-failover",
