@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-08",
+    "titulo": "[AINews] Anthropic IPO: Whither Now?",
+    "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "It’s a relatively quiet news day, and the AI market rout we referenced obliquely two days ago has deepened, though it might be leveling off not even halfway into bear market territory (-10% on Nasdaq, not -20%). That…",
+    "minutos": 31,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  {
     "data": "2026-11-07",
     "titulo": "Test and verification technique effectiveness with GPT-6 Astra",
     "link": "https://danluu.com/astra-testing/",

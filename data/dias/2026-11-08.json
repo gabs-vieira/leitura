@@ -1,0 +1,136 @@
+{
+  "deep": {
+    "data": "2026-11-08",
+    "titulo": "[AINews] Anthropic IPO: Whither Now?",
+    "link": "https://latent.space/p/ainews-anthropic-ipo-whither-now/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "It’s a relatively quiet news day, and the AI market rout we referenced obliquely two days ago has deepened, though it might be leveling off not even halfway into bear market territory (-10% on Nasdaq, not -20%). That…",
+    "minutos": 31,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Como cobrar por uso numa API: contagem, limites e Stripe",
+        "link": "https://www.tabnews.com.br/usagerail/como-cobrar-por-uso-numa-api-contagem-limites-e-stripe",
+        "fonte": "TabNews",
+        "data": "2026-11-08T15:20:30+00:00"
+      },
+      {
+        "titulo": "Tag antes do bump: o que achei nas tags de 2026 de 1.200 repositórios",
+        "link": "https://www.tabnews.com.br/lfnsilva/tag-antes-do-bump-o-que-achei-nas-tags-de-2026-de-1-200-repositorios",
+        "fonte": "TabNews",
+        "data": "2026-11-08T14:22:19+00:00"
+      },
+      {
+        "titulo": "Following breadcrumbs in code - What accidentally committed Ad-Hoc logs reveal about developer comprehension",
+        "link": "https://link.springer.com/article/10.1007/s10664-026-10988-z",
+        "fonte": "Lobsters",
+        "data": "2026-11-08T13:21:22+00:00"
+      },
+      {
+        "titulo": "systemd loves Rust",
+        "link": "https://amutable.com/blog/systemd-loves-rust",
+        "fonte": "Lobsters",
+        "data": "2026-11-08T12:55:05+00:00"
+      },
+      {
+        "titulo": "A bit about email",
+        "link": "https://maurycyz.com/misc/email/",
+        "fonte": "Lobsters",
+        "data": "2026-11-08T12:53:34+00:00"
+      },
+      {
+        "titulo": "NetBSD 11 desktop on a Raspberry Pi 4",
+        "link": "https://neongd.com/articles/netbsd11-rpi4.gmi",
+        "fonte": "Lobsters",
+        "data": "2026-11-08T12:07:39+00:00"
+      },
+      {
+        "titulo": "Person of Interest",
+        "link": "https://krthr.co/person-of-interest/",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-11-08T11:23:28+00:00"
+      },
+      {
+        "titulo": "Entire's Git Forge Rethinks Git Collaboration for Coding Agents",
+        "link": "https://www.infoq.com/news/2026/11/entire-git-forge-coding-agents/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-08T11:00:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Vadim Yatsenko: The Server-First Reader Pool: Exact Connection Reuse and Hot-Path Performance",
+        "link": "https://postgr.es/p/9Bi",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-08T11:30:00+00:00"
+      },
+      {
+        "titulo": "Hollis Varden: Thirteen small measurements on PostgreSQL 18",
+        "link": "https://postgr.es/p/9Bh",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-08T00:00:00+00:00"
+      },
+      {
+        "titulo": "Dave Stokes: Is PostgreSQL Really Winning Part 2: The Evidence Beyond the Rankings",
+        "link": "https://postgr.es/p/9Be",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-07T17:11:16+00:00"
+      },
+      {
+        "titulo": "Writing as a thinking tool",
+        "link": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+        "fonte": "Murat Demirbas (Metadata)",
+        "data": "2026-11-07T08:22:10+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: scram_iterations",
+        "link": "https://postgr.es/p/9Bc",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-07T02:00:00+00:00"
+      },
+      {
+        "titulo": "Chris Travers: PostgreSQL, NUMA, and the Cloud",
+        "link": "https://postgr.es/p/9Bb",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-06T16:11:22+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "LLMs are terrible at designing AI systems",
+        "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-08T00:00:00+00:00"
+      },
+      {
+        "titulo": "Working with designers",
+        "link": "https://seangoedecke.com/working-with-designers/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-07T00:00:00+00:00"
+      },
+      {
+        "titulo": "The Pragmatic Summit 2027",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-summit-2027",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-06T19:39:15+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+        "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-07T23:57:46+00:00"
+      },
+      {
+        "titulo": "Quoting Nilay Patel",
+        "link": "https://simonwillison.net/2026/Nov/6/nilay-patel/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-06T17:13:12+00:00"
+      }
+    ]
+  }
+}
