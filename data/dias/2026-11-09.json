@@ -1,0 +1,146 @@
+{
+  "deep": {
+    "data": "2026-11-09",
+    "titulo": "LLMs are terrible at designing AI systems",
+    "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
+    "fonte": "Sean Goedecke",
+    "tema": "Carreira",
+    "resumo": "LLMs don’t know how to design software that uses LLMs. They’re comfortable writing normal programs, but if you throw an AI-shaped problem at them, they will usually screw it up. Why is that? Going down the symbolic…",
+    "minutos": 4,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Java News Roundup: TornadoVM, A2A Java, Open Liberty, Open J Proxy, Gradle, EclipseStore",
+        "link": "https://www.infoq.com/news/2026/11/java-news-roundup-nov02-2026/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-09T18:40:00+00:00"
+      },
+      {
+        "titulo": "Microsoft are rejecting your mail",
+        "link": "https://www.mythic-beasts.com/blog/2026/11/09/microsoft-are-rejecting-your-mail/",
+        "fonte": "Lobsters",
+        "data": "2026-11-09T18:36:47+00:00"
+      },
+      {
+        "titulo": "Sure mate, buy me a bloody coffee",
+        "link": "https://peateasea.de/sure-mate-buy-me-a-bloody-coffee/",
+        "fonte": "Lobsters",
+        "data": "2026-11-09T18:35:57+00:00"
+      },
+      {
+        "titulo": "Pitch: Lancei o Superfik: um canvas nativo e open source para trabalhar com agentes de IA",
+        "link": "https://www.tabnews.com.br/brunozilio/lancei-o-superfik-um-canvas-nativo-e-open-source-para-trabalhar-com-agentes-de-ia",
+        "fonte": "TabNews",
+        "data": "2026-11-09T17:18:43+00:00"
+      },
+      {
+        "titulo": "Curso gratuito de AutoCAD: instalação e interface",
+        "link": "https://www.tabnews.com.br/guiadeti/curso-gratuito-de-autocad-instalacao-e-interface",
+        "fonte": "TabNews",
+        "data": "2026-11-09T17:11:37+00:00"
+      },
+      {
+        "titulo": "Fact-Checking at Scale: Building a More Accurate and Efficient Synopsis Factuality System",
+        "link": "https://netflixtechblog.com/fact-checking-at-scale-building-a-more-accurate-and-efficient-synopsis-factuality-system-d7d85859d808?source=rss----2615bd06b42e---4",
+        "fonte": "Netflix TechBlog",
+        "data": "2026-11-09T17:01:02+00:00"
+      },
+      {
+        "titulo": "5 fontes de dados abertos que pouca gente usa (com código Python curto para cada)",
+        "link": "https://www.tabnews.com.br/jeffev/5-fontes-de-dados-abertos-que-pouca-gente-usa-com-codigo-python-curto-para-cada",
+        "fonte": "TabNews",
+        "data": "2026-11-09T17:00:52+00:00"
+      },
+      {
+        "titulo": "Extending LLDB to Debug Applications That Span CPUs and GPUs",
+        "link": "https://engineering.fb.com/2026/11/09/developer-tools/extending-lldb-to-debug-applications-that-span-cpus-and-gpus/",
+        "fonte": "Engineering at Meta",
+        "data": "2026-11-09T17:00:12+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
+        "link": "https://latent.space/p/handshake/",
+        "fonte": "Latent Space",
+        "data": "2026-11-09T17:15:53+00:00"
+      },
+      {
+        "titulo": "The Web Is More Than Enough, by Paul Ford",
+        "link": "https://simonwillison.net/2026/Nov/9/hn-50421091/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-09T04:32:33+00:00"
+      },
+      {
+        "titulo": "Hide your slop PR descriptions behind",
+        "link": "https://simonwillison.net/2026/Nov/9/details-summary/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-09T04:25:05+00:00"
+      },
+      {
+        "titulo": "AI R&D accelerates 📈, OpenAI at $1.25T 💰, GitHub’s multiplayer harness 🤖",
+        "link": "https://tldr.tech/ai/2026-11-09",
+        "fonte": "TLDR AI",
+        "data": "2026-11-09T00:00:00+00:00"
+      },
+      {
+        "titulo": "parse_number() as a SQLite extension: C vs Rust",
+        "link": "https://simonwillison.net/2026/Nov/8/sqlite-parse-number-c-vs-rust/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-08T22:26:00+00:00"
+      },
+      {
+        "titulo": "How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "link": "https://latent.space/p/cs146s/",
+        "fonte": "Latent Space",
+        "data": "2026-11-08T21:41:44+00:00"
+      },
+      {
+        "titulo": "[One Million AI Engineer Special] How Stanford Teaches AI-Native Engineering — Mihail Eric, Monaco",
+        "link": "https://latent.space/p/one_million_ai_engineer_special_how_stanford_teaches_ai-native_engineering_mihail_eric_monaco/",
+        "fonte": "Latent Space",
+        "data": "2026-11-08T21:23:29+00:00"
+      },
+      {
+        "titulo": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+        "link": "https://simonwillison.net/2026/Nov/7/link-rel-next/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-07T23:57:46+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 44",
+        "link": "https://postgr.es/p/9Bn",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-09T08:58:17+00:00"
+      },
+      {
+        "titulo": "Maki Majima: Two migrations collide: one loud failure, one silent one",
+        "link": "https://postgr.es/p/9Bm",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-09T00:00:00+00:00"
+      },
+      {
+        "titulo": "Chris van Eijk: json vs jsonb in PostgreSQL: size and speed, measured",
+        "link": "https://postgr.es/p/9Bl",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-08T22:30:11+00:00"
+      },
+      {
+        "titulo": "Vadim Yatsenko: The Server-First Reader Pool: Exact Connection Reuse and Hot-Path Performance",
+        "link": "https://postgr.es/p/9Bi",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-08T11:30:00+00:00"
+      },
+      {
+        "titulo": "Hollis Varden: Thirteen small measurements on PostgreSQL 18",
+        "link": "https://postgr.es/p/9Bh",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-08T00:00:00+00:00"
+      }
+    ]
+  }
+}
