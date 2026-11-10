@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-10",
+    "titulo": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
+    "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
+    "fonte": "ByteByteGo",
+    "tema": "Backend",
+    "resumo": "NYSE President Lynn Martin discusses AI (Sponsored) AI is moving fast, from experiments to agents that act on their own. Few people have a better view of what that shift means for business than Lynn Martin, President of…",
+    "minutos": 11,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  {
     "data": "2026-11-09",
     "titulo": "LLMs are terrible at designing AI systems",
     "link": "https://seangoedecke.com/llms-are-terrible-at-designing-ai-systems/",
