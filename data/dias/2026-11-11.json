@@ -1,0 +1,172 @@
+{
+  "deep": {
+    "data": "2026-11-11",
+    "titulo": "Writing as a thinking tool",
+    "link": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "fonte": "Murat Demirbas (Metadata)",
+    "tema": "Databases",
+    "resumo": "In middle school I could not get through long passages no matter how hard I tried. I would read an entire page and find that nothing had registered, so I started taking notes out of desperation. This was the late 80s,…",
+    "minutos": 7,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Resident Evil 3 (PSX) Criei um mod para o game que permite jogar o clássico em co-op online com até 4 jogadores simultâneos!",
+        "link": "https://www.tabnews.com.br/PedroWebber/resident-evil-3-psx-criei-um-mod-para-o-game-que-permite-jogar-o-classico-em-co-op-online-com-ate-4-jogadores-simultaneos",
+        "fonte": "TabNews",
+        "data": "2026-11-11T16:47:22+00:00"
+      },
+      {
+        "titulo": "Pitch: GPLWPPass — Por que criamos um repositório de temas e plugins WordPress 100% limpo focado em agências e freelas",
+        "link": "https://www.tabnews.com.br/mwcbpuroyt7e/pitch-gplwppass-por-que-criamos-um-repositorio-de-temas-e-plugins-wordpress-100-por-cento-limpo-focado-em-agencias-e-freelas",
+        "fonte": "TabNews",
+        "data": "2026-11-11T16:37:59+00:00"
+      },
+      {
+        "titulo": "Writing a SIGGRAPH paper from scratch",
+        "link": "https://alexandergoslin.me/writing-a-siggraph-paper-from-scratch/",
+        "fonte": "Lobsters",
+        "data": "2026-11-11T16:34:08+00:00"
+      },
+      {
+        "titulo": "The Roundup by ByteByteGo",
+        "link": "https://blog.bytebytego.com/p/the-roundup-by-bytebytego",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-11T16:30:53+00:00"
+      },
+      {
+        "titulo": "How a false smoke alarm almost drowned Jane Street's only NYC datacenter",
+        "link": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+        "fonte": "Lobsters",
+        "data": "2026-11-11T16:27:51+00:00"
+      },
+      {
+        "titulo": "Pitch: como testar OTP por SMS no Postman e no Newman (CI) com número real",
+        "link": "https://www.tabnews.com.br/IIolaser/pitch-como-testar-otp-por-sms-no-postman-e-no-newman-ci-com-numero-real",
+        "fonte": "TabNews",
+        "data": "2026-11-11T16:12:32+00:00"
+      },
+      {
+        "titulo": "Fraude em iGaming: tipos principais e abordagens de detecção (KYC, pagamentos, AML)",
+        "link": "https://www.tabnews.com.br/biometricvision/fraude-em-igaming-tipos-principais-e-abordagens-de-deteccao-kyc-pagamentos-aml",
+        "fonte": "TabNews",
+        "data": "2026-11-11T16:02:14+00:00"
+      },
+      {
+        "titulo": "SSD não morre só de repente: como ler o desgaste no Proxmox antes de perder tudo de novo",
+        "link": "https://www.tabnews.com.br/bmarino01/ssd-nao-morre-so-de-repente-como-ler-o-desgaste-no-proxmox-antes-de-perder-tudo-de-novo",
+        "fonte": "TabNews",
+        "data": "2026-11-11T15:56:02+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Anthropic's IPO roadshow video",
+        "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T15:11:59+00:00"
+      },
+      {
+        "titulo": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+        "link": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+        "fonte": "Latent Space",
+        "data": "2026-11-11T09:34:28+00:00"
+      },
+      {
+        "titulo": "AI Engineer Code Summit: OpenAI on New Ways of Working With Codex",
+        "link": "https://latent.space/p/codex-work/",
+        "fonte": "Latent Space",
+        "data": "2026-11-11T04:49:48+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Carbon ⚡, Claude Sheets 📊, Antigravity Swarm 🤖",
+        "link": "https://tldr.tech/ai/2026-11-11",
+        "fonte": "TLDR AI",
+        "data": "2026-11-11T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm-gemini 0.36",
+        "link": "https://simonwillison.net/2026/Nov/10/llm-gemini/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-10T20:09:44+00:00"
+      },
+      {
+        "titulo": "Designing for Agents — Zeno Rocha, Resend",
+        "link": "https://latent.space/p/resend/",
+        "fonte": "Latent Space",
+        "data": "2026-11-10T20:05:17+00:00"
+      },
+      {
+        "titulo": "NaiveAI Promises 2,100 Tokens per Second. How Well Does It Code?",
+        "link": "https://latent.space/p/naiveai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-10T18:56:32+00:00"
+      },
+      {
+        "titulo": "Introducing Our Smallest, Most Efficient Model: Muse Ember",
+        "link": "https://simonwillison.net/2026/Nov/10/muse-ember/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-10T07:28:21+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Umair Shahid: Life After PostgreSQL 14",
+        "link": "https://postgr.es/p/9By",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T13:50:12+00:00"
+      },
+      {
+        "titulo": "Radim Marek: B-tree pages, sorted and sparse",
+        "link": "https://postgr.es/p/9Bw",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-10T22:15:49+00:00"
+      },
+      {
+        "titulo": "Andreas Scherbaum: PostgreSQL Berlin November 2026 Meetup",
+        "link": "https://postgr.es/p/9Bx",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-10T22:00:00+00:00"
+      },
+      {
+        "titulo": "Mats Kindahl: Building a Table Access Method, Part 8: Cache invalidation",
+        "link": "https://postgr.es/p/9Bv",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-10T20:21:39+00:00"
+      },
+      {
+        "titulo": "Vibhor Kumar: Beyond AI Buzzwords: Four Questions Every Enterprise Leader Must Answer",
+        "link": "https://postgr.es/p/9Bu",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-10T15:57:09+00:00"
+      },
+      {
+        "titulo": "Laurenz Albe: Don't dream it, be it!",
+        "link": "https://postgr.es/p/9Br",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-10T04:00:06+00:00"
+      },
+      {
+        "titulo": "Hubert 'depesz' Lubaczewski: What LLMs do to PostgreSQL and DBAs",
+        "link": "https://postgr.es/p/9Bq",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-09T20:54:04+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Glue work is still harmful in the age of AI",
+        "link": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-11T00:00:00+00:00"
+      },
+      {
+        "titulo": "Software correctness & supply chain security, with Sean Allen",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-correctness",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-10T15:00:21+00:00"
+      }
+    ]
+  }
+}

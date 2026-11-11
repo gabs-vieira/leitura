@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-11",
+    "titulo": "Writing as a thinking tool",
+    "link": "https://muratbuffalo.blogspot.com/2026/11/writing-as-thinking-tool.html",
+    "fonte": "Murat Demirbas (Metadata)",
+    "tema": "Databases",
+    "resumo": "In middle school I could not get through long passages no matter how hard I tried. I would read an entire page and find that nothing had registered, so I started taking notes out of desperation. This was the late 80s,…",
+    "minutos": 7,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  {
     "data": "2026-11-10",
     "titulo": "How GitHub Used AI to Port Copilot From TypeScript to Rust in Record Time",
     "link": "https://blog.bytebytego.com/p/how-github-used-ai-to-port-copilot",
