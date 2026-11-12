@@ -1,0 +1,172 @@
+{
+  "deep": {
+    "data": "2026-11-12",
+    "titulo": "New Research Tests Whether AI Models Know Their Own Thoughts",
+    "link": "https://www.quantamagazine.org/new-research-tests-whether-ai-models-know-their-own-thoughts-20261104/",
+    "fonte": "Quanta (CS)",
+    "tema": "Ciência da Computação",
+    "resumo": "What’s on your mind right now? You can probably answer this question without thinking too hard about it. Being aware of our own thought processes — a capacity called introspection — seems to come naturally to us. Yet…",
+    "minutos": null,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Night Nabbers chegou ao CrazyGames (jogo 3D de guaxinins, grátis)",
+        "link": "https://www.tabnews.com.br/nightnabbers/night-nabbers-chegou-ao-crazygames-jogo-3d-de-guaxinins-gratis",
+        "fonte": "TabNews",
+        "data": "2026-11-12T16:57:12+00:00"
+      },
+      {
+        "titulo": "Vocês deixam agentes de IA rodarem comandos sozinhos no terminal?",
+        "link": "https://www.tabnews.com.br/melteam/voces-deixam-agentes-de-ia-rodarem-comandos-sozinhos-no-terminal",
+        "fonte": "TabNews",
+        "data": "2026-11-12T16:56:38+00:00"
+      },
+      {
+        "titulo": "Top Types of Hidden Coupling and How to Deal With Them",
+        "link": "https://blog.bytebytego.com/p/top-types-of-hidden-coupling-and",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-12T16:30:41+00:00"
+      },
+      {
+        "titulo": "The anti-marketing aspect of the Gemini network",
+        "link": "https://ploum.net/2026-11-12-anti-marketing-gemini.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-12T16:17:25+00:00"
+      },
+      {
+        "titulo": "Documentação - Laravel",
+        "link": "https://www.tabnews.com.br/Br3/documentacao-laravel",
+        "fonte": "TabNews",
+        "data": "2026-11-12T16:16:15+00:00"
+      },
+      {
+        "titulo": "Confira o recorte depois do primeiro segundo de movimento, só então aumente a câmera",
+        "link": "https://www.tabnews.com.br/flowaistudio/confira-o-recorte-depois-do-primeiro-segundo-de-movimento-so-entao-aumente-a-camera",
+        "fonte": "TabNews",
+        "data": "2026-11-12T16:10:12+00:00"
+      },
+      {
+        "titulo": "Token de API da IONOS Cloud: o DCD não é o Control Center, quanto tempo dura e como deixá-lo somente leitura",
+        "link": "https://www.tabnews.com.br/gonzalogjuka/token-de-api-da-ionos-cloud-o-dcd-nao-e-o-control-center-quanto-tempo-dura-e-como-deixa-lo-somente-leitura",
+        "fonte": "TabNews",
+        "data": "2026-11-12T15:45:39+00:00"
+      },
+      {
+        "titulo": "libreagi - save OS models",
+        "link": "https://libreagi.com/",
+        "fonte": "Lobsters",
+        "data": "2026-11-12T15:35:46+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Jimmy Angelakos: Community Over Code Glasgow 2026 and a ColdFront lightning talk",
+        "link": "https://postgr.es/p/9BF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T16:22:00+00:00"
+      },
+      {
+        "titulo": "Devrim GÜNDÜZ: PostgreSQL November 2026 minor releases: update the server and extensions together",
+        "link": "https://postgr.es/p/9BD",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T12:58:00+00:00"
+      },
+      {
+        "titulo": "uzair aslam: Vercel Cron Jobs in Production: Secure, Retry-Safe Jobs with Next.js",
+        "link": "https://postgr.es/p/9BB",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T22:51:35+00:00"
+      },
+      {
+        "titulo": "uzair aslam: PostgreSQL Vector Search with pgvector: Hybrid Search in Next.js",
+        "link": "https://postgr.es/p/9BC",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T22:51:31+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: Stop Using AI to Report PostgreSQL Bugs",
+        "link": "https://postgr.es/p/9BA",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T17:37:00+00:00"
+      },
+      {
+        "titulo": "Umair Shahid: Life After PostgreSQL 14",
+        "link": "https://postgr.es/p/9By",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T13:50:12+00:00"
+      },
+      {
+        "titulo": "Munaf Khatri: Testing: Auto-generated Unit, Integration and Data leakage tests for PostgreSQL, Supabase and Neon",
+        "link": "https://postgr.es/p/9Bz",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-11T12:00:00+00:00"
+      },
+      {
+        "titulo": "How we migrate TBs from Heroku without logical replication",
+        "link": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+        "fonte": "PlanetScale",
+        "data": "2026-11-11T00:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] D-Day (Decision Models Day)",
+        "link": "https://latent.space/p/ainews-d-day-decision-models-day/",
+        "fonte": "Latent Space",
+        "data": "2026-11-12T05:26:54+00:00"
+      },
+      {
+        "titulo": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "link": "https://latent.space/p/jev-revolution/",
+        "fonte": "Latent Space",
+        "data": "2026-11-12T05:08:20+00:00"
+      },
+      {
+        "titulo": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
+        "link": "https://tldr.tech/ai/2026-11-12",
+        "fonte": "TLDR AI",
+        "data": "2026-11-12T00:00:00+00:00"
+      },
+      {
+        "titulo": "Gemini Decisions API",
+        "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T22:03:25+00:00"
+      },
+      {
+        "titulo": "Browse tools.simonwillison.net by tag",
+        "link": "https://simonwillison.net/2026/Nov/11/tools-tags/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T18:42:50+00:00"
+      },
+      {
+        "titulo": "llm 0.37.2",
+        "link": "https://simonwillison.net/2026/Nov/11/llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T17:19:52+00:00"
+      },
+      {
+        "titulo": "Anthropic's IPO roadshow video",
+        "link": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T15:11:59+00:00"
+      },
+      {
+        "titulo": "[AINews] Mercor $750m Series D at $20B valuation, $3B run rate",
+        "link": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate/",
+        "fonte": "Latent Space",
+        "data": "2026-11-11T09:34:28+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Glue work is still harmful in the age of AI",
+        "link": "https://seangoedecke.com/glue-work-is-still-harmful-in-the-age-of-ai/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-11T00:00:00+00:00"
+      }
+    ]
+  }
+}
