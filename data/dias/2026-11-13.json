@@ -1,0 +1,178 @@
+{
+  "deep": {
+    "data": "2026-11-13",
+    "titulo": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+    "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "Congrats to Gemini 4 Hydrogen on their launch and it seems Anthropic’s IPO is well under way, but today’s headline was only ever going to be about one thing, the most earthshaking leadership change in AI (after…",
+    "minutos": 24,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "[PITCH] ShieldAgent: Ecossistema de Cibersegurança e LGPD em Python/Flask rodando 24/7",
+        "link": "https://www.tabnews.com.br/hxjhosue/pitch-shieldagent-ecossistema-de-ciberseguranca-e-lgpd-em-python-flask-rodando-24-7",
+        "fonte": "TabNews",
+        "data": "2026-11-13T16:44:25+00:00"
+      },
+      {
+        "titulo": "react-native-iap + StoreKit 2: a compra pedia a senha da Apple 4 vezes — a causa era a ordem de inicialização",
+        "link": "https://www.tabnews.com.br/caccac/react-native-iap-storekit-2-a-compra-pedia-a-senha-da-apple-4-vezes-a-causa-era-a-ordem-de-inicializacao",
+        "fonte": "TabNews",
+        "data": "2026-11-13T16:38:29+00:00"
+      },
+      {
+        "titulo": "Pitch: Plataforma de auditoria pública",
+        "link": "https://www.tabnews.com.br/leogm360/plataforma-de-auditoria-publica",
+        "fonte": "TabNews",
+        "data": "2026-11-13T16:04:23+00:00"
+      },
+      {
+        "titulo": "Probabilistic data structures in Go",
+        "link": "https://antonz.org/probabilistic-data-structures/",
+        "fonte": "Lobsters",
+        "data": "2026-11-13T16:03:44+00:00"
+      },
+      {
+        "titulo": "Siri AI Developer Preview Lets iOS, iPadOS, and macOS Apps Integrate with Siri",
+        "link": "https://www.infoq.com/news/2026/11/apple-siri-ai-integration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-13T16:00:00+00:00"
+      },
+      {
+        "titulo": "Dividi salário por 160 e achei R$ 107 a hora. Refiz a conta com as horas que sobram e deu R$ 268,68",
+        "link": "https://www.tabnews.com.br/revinsoftware/dividi-salario-por-160-e-achei-r-107-a-hora-refiz-a-conta-com-as-horas-que-sobram-e-deu-r-268-68",
+        "fonte": "TabNews",
+        "data": "2026-11-13T15:52:43+00:00"
+      },
+      {
+        "titulo": "Fiz uma IA de 19 neurônios em JS puro que zerou o Snake. Depois testei de verdade e ela nunca mais zerou.",
+        "link": "https://www.tabnews.com.br/fernandomorais/fiz-uma-ia-de-19-neuronios-em-js-puro-que-zerou-o-snake-depois-testei-de-verdade-e-ela-nunca-mais-zerou",
+        "fonte": "TabNews",
+        "data": "2026-11-13T15:30:48+00:00"
+      },
+      {
+        "titulo": "Queda de energia no homelab: a BIOS em Last State pode deixar o servidor desligado de propósito",
+        "link": "https://www.tabnews.com.br/bmarino01/queda-de-energia-no-homelab-a-bios-em-last-state-pode-deixar-o-servidor-desligado-de-proposito",
+        "fonte": "TabNews",
+        "data": "2026-11-13T15:03:02+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Jeremy Schneider: Postgres 18.7 Debian and Redhat Packagers Protect You",
+        "link": "https://postgr.es/p/9BN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T16:28:19+00:00"
+      },
+      {
+        "titulo": "Andrew Dunstan: Announcing Release 22 of the PostgreSQL Buildfarm client",
+        "link": "https://postgr.es/p/9BM",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T15:46:55+00:00"
+      },
+      {
+        "titulo": "Ruohang Feng: PostgreSQL Just Patched 52 CVEs in a Single Minor Release",
+        "link": "https://postgr.es/p/9BK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T00:00:00+00:00"
+      },
+      {
+        "titulo": "Greg Nancarrow: Build resilient AI workflows with DBOS and Fujitsu Enterprise Postgres",
+        "link": "https://postgr.es/p/9BI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T23:45:00+00:00"
+      },
+      {
+        "titulo": "Jeremy Schneider: Postgres 18.7 minor breaks ABI compatibility again",
+        "link": "https://postgr.es/p/9BH",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T19:12:24+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Community Over Code Glasgow 2026 and a ColdFront lightning talk",
+        "link": "https://postgr.es/p/9BF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T16:22:00+00:00"
+      },
+      {
+        "titulo": "Devrim GÜNDÜZ: PostgreSQL November 2026 minor releases: update the server and extensions together",
+        "link": "https://postgr.es/p/9BD",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T12:58:00+00:00"
+      },
+      {
+        "titulo": "Lukas Fittl: Postgres 18.7 Security Release: The Impact of CVE-2026-6460 & other memory corruption issues",
+        "link": "https://postgr.es/p/9BJ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T12:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "link": "https://latent.space/p/artcraft/",
+        "fonte": "Latent Space",
+        "data": "2026-11-13T04:17:25+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
+        "link": "https://tldr.tech/ai/2026-11-13",
+        "fonte": "TLDR AI",
+        "data": "2026-11-13T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm-gemini 0.37",
+        "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-12T22:55:19+00:00"
+      },
+      {
+        "titulo": "[AINews] D-Day (Decision Models Day)",
+        "link": "https://latent.space/p/ainews-d-day-decision-models-day/",
+        "fonte": "Latent Space",
+        "data": "2026-11-12T05:26:54+00:00"
+      },
+      {
+        "titulo": "The Jev Revolution: What Engineers Are Already Building with System One Models",
+        "link": "https://latent.space/p/jev-revolution/",
+        "fonte": "Latent Space",
+        "data": "2026-11-12T05:08:20+00:00"
+      },
+      {
+        "titulo": "Grok Bot 1.0 🤖, AlphaGenome 2 🧬, Gemini Decisions 🧠",
+        "link": "https://tldr.tech/ai/2026-11-12",
+        "fonte": "TLDR AI",
+        "data": "2026-11-12T00:00:00+00:00"
+      },
+      {
+        "titulo": "Gemini Decisions API",
+        "link": "https://simonwillison.net/2026/Nov/11/gemini-decisions-api/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T22:03:25+00:00"
+      },
+      {
+        "titulo": "aws-emulator",
+        "link": "https://simonwillison.net/2026/Nov/11/aws-emulator/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-11T21:18:30+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Pulse: What can we learn from the Railway hack?",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-12T18:53:19+00:00"
+      },
+      {
+        "titulo": "“Toil” is Contextual",
+        "link": "https://newsletter.kentbeck.com/p/toil-is-contextual",
+        "fonte": "Tidy First? (Kent Beck)",
+        "data": "2026-11-12T14:04:00+00:00"
+      }
+    ]
+  }
+}
