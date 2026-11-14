@@ -1,0 +1,154 @@
+{
+  "deep": {
+    "data": "2026-11-14",
+    "titulo": "How to find meaning in large tech companies",
+    "link": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",
+    "fonte": "Sean Goedecke",
+    "tema": "Carreira",
+    "resumo": "Why do many people hate working in large tech companies? The obvious answer is “because organizational dysfunction stops them from doing the things they want to do”. Engineers like to write code and ship things, and if…",
+    "minutos": 4,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Tyrus - TypeScript syntax. Rust semantics.",
+        "link": "https://www.tabnews.com.br/TitenQ/tyrus-typescript-syntax-rust-semantics",
+        "fonte": "TabNews",
+        "data": "2026-11-14T13:19:51+00:00"
+      },
+      {
+        "titulo": "[Pitch] Pokechampions Core: reunindo ferramentas de Pokémon em um app Flutter offline",
+        "link": "https://www.tabnews.com.br/RakullDev/pitch-pokechampions-core-reunindo-ferramentas-de-pokemon-em-um-app-flutter-offline",
+        "fonte": "TabNews",
+        "data": "2026-11-14T13:07:39+00:00"
+      },
+      {
+        "titulo": "🔥 O Melhor da Semana no TabNews #39",
+        "link": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-39",
+        "fonte": "TabNews",
+        "data": "2026-11-14T11:00:09+00:00"
+      },
+      {
+        "titulo": "Solving the fox game",
+        "link": "http://blog.sesse.net/blog/tech/2026-11-13-19-51_solving_the_fox_game.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-14T10:32:33+00:00"
+      },
+      {
+        "titulo": "Unreal 5.9: o agente está conectado, mas consegue editar a cena?",
+        "link": "https://www.tabnews.com.br/Centelha/unreal-5-9-o-agente-esta-conectado-mas-consegue-editar-a-cena",
+        "fonte": "TabNews",
+        "data": "2026-11-14T10:20:03+00:00"
+      },
+      {
+        "titulo": "goliath32.com - Creating a self booting ZIP archive",
+        "link": "https://goliath32.com/blog/ziphead.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-14T10:01:58+00:00"
+      },
+      {
+        "titulo": "When is a class a “commodity” and when does it depend on the instructor?",
+        "link": "https://statmodeling.stat.columbia.edu/2026/11/13/when-is-a-class-a-commodity-and-when-does-it-depend-on-the-instructor/",
+        "fonte": "Lobsters",
+        "data": "2026-11-14T09:57:57+00:00"
+      },
+      {
+        "titulo": "Node.js Brings Debounce, Throttle, and PKCS#12 Parsing Into Core Modules",
+        "link": "https://www.infoq.com/news/2026/11/nodejs-debounce-throttle/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-14T08:03:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] The No AI Slop Manifesto",
+        "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "fonte": "Latent Space",
+        "data": "2026-11-14T08:31:02+00:00"
+      },
+      {
+        "titulo": "datasette-cluster-map 0.19",
+        "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-13T23:02:45+00:00"
+      },
+      {
+        "titulo": "datasette-leaflet 0.3",
+        "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-13T22:30:54+00:00"
+      },
+      {
+        "titulo": "[AINews] Jensen Huang resigns after 33 years leading NVIDIA",
+        "link": "https://latent.space/p/ainews-jensen-huang-resigns-after-33-years-leading-nvidia/",
+        "fonte": "Latent Space",
+        "data": "2026-11-13T09:04:13+00:00"
+      },
+      {
+        "titulo": "AI Ambition: ArtCraft Cloned Photoshop and Now Wants to \"Rebuild Everything\"",
+        "link": "https://latent.space/p/artcraft/",
+        "fonte": "Latent Space",
+        "data": "2026-11-13T04:17:25+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Hydrogen 🚀, self-hosted Claude agents 🔒, Replit agent commerce 🛒",
+        "link": "https://tldr.tech/ai/2026-11-13",
+        "fonte": "TLDR AI",
+        "data": "2026-11-13T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm-gemini 0.37",
+        "link": "https://simonwillison.net/2026/Nov/12/llm-gemini/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-12T22:55:19+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Jeremy Schneider: Postgres 18.7 Debian and Redhat Packagers Protect You",
+        "link": "https://postgr.es/p/9BN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T16:28:19+00:00"
+      },
+      {
+        "titulo": "Andrew Dunstan: Announcing Release 22 of the PostgreSQL Buildfarm client",
+        "link": "https://postgr.es/p/9BM",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T15:46:55+00:00"
+      },
+      {
+        "titulo": "Ruohang Feng: PostgreSQL Just Patched 52 CVEs in a Single Minor Release",
+        "link": "https://postgr.es/p/9BK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T00:00:00+00:00"
+      },
+      {
+        "titulo": "Greg Nancarrow: Build resilient AI workflows with DBOS and Fujitsu Enterprise Postgres",
+        "link": "https://postgr.es/p/9BI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T23:45:00+00:00"
+      },
+      {
+        "titulo": "Jeremy Schneider: Postgres 18.7 minor breaks ABI compatibility again",
+        "link": "https://postgr.es/p/9BH",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T19:12:24+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: Community Over Code Glasgow 2026 and a ColdFront lightning talk",
+        "link": "https://postgr.es/p/9BF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-12T16:22:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Pulse: What can we learn from the Railway hack?",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-what-can-we-learn-from-114",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-12T18:53:19+00:00"
+      }
+    ]
+  }
+}
