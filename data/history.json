@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-15",
+    "titulo": "EP233: Kubernetes Explained for Busy Engineers",
+    "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+    "fonte": "ByteByteGo",
+    "tema": "Backend",
+    "resumo": "Workshop: How Anthropic Traces Agents with OpenTelemetry and Sentry (Sponsored) Where did your agent’s tokens go? CJ Avilla from Anthropic sent his Claude Platform OpenTelemetry data to Sentry. It turned up an old…",
+    "minutos": 5,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  {
     "data": "2026-11-14",
     "titulo": "How to find meaning in large tech companies",
     "link": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",

@@ -1,0 +1,124 @@
+{
+  "deep": {
+    "data": "2026-11-15",
+    "titulo": "EP233: Kubernetes Explained for Busy Engineers",
+    "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",
+    "fonte": "ByteByteGo",
+    "tema": "Backend",
+    "resumo": "Workshop: How Anthropic Traces Agents with OpenTelemetry and Sentry (Sponsored) Where did your agent’s tokens go? CJ Avilla from Anthropic sent his Claude Platform OpenTelemetry data to Sentry. It turned up an old…",
+    "minutos": 5,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Pitch: SET Trading Competition: competição cripto grátis de 56 dias com vagas de estágio de ponta",
+        "link": "https://www.tabnews.com.br/settrade/pitch-set-trading-competition-competicao-cripto-gratis-de-56-dias-com-vagas-de-estagio-de-ponta",
+        "fonte": "TabNews",
+        "data": "2026-11-15T14:26:33+00:00"
+      },
+      {
+        "titulo": "Territórios de vendas balanceados em Python: divida leads por carga de trabalho, não por área do mapa",
+        "link": "https://www.tabnews.com.br/tarunmantis/territorios-de-vendas-balanceados-em-python-divida-leads-por-carga-de-trabalho-nao-por-area-do-mapa",
+        "fonte": "TabNews",
+        "data": "2026-11-15T13:54:45+00:00"
+      },
+      {
+        "titulo": "Como fiz uma cidade multiplayer estilo GTA que roda no navegador (e o que aprendi com portais de jogos)",
+        "link": "https://www.tabnews.com.br/rafaroca/como-fiz-uma-cidade-multiplayer-estilo-gta-que-roda-no-navegador-e-o-que-aprendi-com-portais-de-jogos",
+        "fonte": "TabNews",
+        "data": "2026-11-15T13:02:12+00:00"
+      },
+      {
+        "titulo": "Memory management in 40 major C projects, a survey",
+        "link": "https://theconsensus.dev/p/2026/11/08/c-memory-management-survey.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-15T12:50:03+00:00"
+      },
+      {
+        "titulo": "A NES emulator written in Odin",
+        "link": "https://lucypero.com/lucynes.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-15T12:37:33+00:00"
+      },
+      {
+        "titulo": "Anthropic Outlines Its AI-Powered Code Review Process for Claude Code",
+        "link": "https://www.infoq.com/news/2026/11/claude-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-15T09:55:00+00:00"
+      },
+      {
+        "titulo": "Pitch: Django-octo - um orquestrador modular para Django com auto-descoberta de pacotes e versionamento orientado a eventos (django-octo)",
+        "link": "https://www.tabnews.com.br/jeanpmodev/django-octo-um-orquestrador-modular-para-django-com-auto-descoberta-de-pacotes-e-versionamento-orientado-a-eventos-django-octo",
+        "fonte": "TabNews",
+        "data": "2026-11-15T09:48:53+00:00"
+      },
+      {
+        "titulo": "cursor:pointer on buttons",
+        "link": "https://blog.kizu.dev/cursors/",
+        "fonte": "Lobsters",
+        "data": "2026-11-15T09:15:40+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "datasette-llm 0.1a11",
+        "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-14T23:59:28+00:00"
+      },
+      {
+        "titulo": "datasette-vega 0.7",
+        "link": "https://simonwillison.net/2026/Nov/14/datasette-vega/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-14T17:09:09+00:00"
+      },
+      {
+        "titulo": "[AINews] The No AI Slop Manifesto",
+        "link": "https://latent.space/p/ainews-the-no-ai-slop-manifesto/",
+        "fonte": "Latent Space",
+        "data": "2026-11-14T08:31:02+00:00"
+      },
+      {
+        "titulo": "datasette-cluster-map 0.19",
+        "link": "https://simonwillison.net/2026/Nov/13/datasette-cluster-map/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-13T23:02:45+00:00"
+      },
+      {
+        "titulo": "datasette-leaflet 0.3",
+        "link": "https://simonwillison.net/2026/Nov/13/datasette-leaflet/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-13T22:30:54+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Dinesh Kumar: How to Reduce PostgreSQL Memory Usage and Cut Your Cloud Bill in Half",
+        "link": "https://postgr.es/p/9BQ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-14T18:45:15+00:00"
+      },
+      {
+        "titulo": "Jianghua yang: Pricing plans in PostgreSQL's currency: pg_orca's PG-aligned cost model",
+        "link": "https://postgr.es/p/9BP",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-14T00:00:00+00:00"
+      },
+      {
+        "titulo": "Jeremy Schneider: Postgres 18.7 Debian and Redhat Packagers Protect You",
+        "link": "https://postgr.es/p/9BN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-13T16:28:19+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "How to find meaning in large tech companies",
+        "link": "https://seangoedecke.com/how-to-find-meaning-in-large-tech-companies/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-14T00:00:00+00:00"
+      }
+    ]
+  }
+}
