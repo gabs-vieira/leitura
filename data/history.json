@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-16",
+    "titulo": "How we migrate TBs from Heroku without logical replication",
+    "link": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "Since we launched PlanetScale Postgres, companies have been moving to it from just about every Postgres provider out there, and Heroku Postgres is no exception. Our team has helped many customers leave Heroku, ranging…",
+    "minutos": 12,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  {
     "data": "2026-11-15",
     "titulo": "EP233: Kubernetes Explained for Busy Engineers",
     "link": "https://blog.bytebytego.com/p/ep233-kubernetes-explained-for-busy",

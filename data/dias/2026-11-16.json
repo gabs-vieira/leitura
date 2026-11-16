@@ -1,0 +1,124 @@
+{
+  "deep": {
+    "data": "2026-11-16",
+    "titulo": "How we migrate TBs from Heroku without logical replication",
+    "link": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "Since we launched PlanetScale Postgres, companies have been moving to it from just about every Postgres provider out there, and Heroku Postgres is no exception. Our team has helped many customers leave Heroku, ranging…",
+    "minutos": 12,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Quanto texto gerado por LLM aparece no TabNews? Uma amostra preliminar",
+        "link": "https://www.tabnews.com.br/ThinkIac/quanto-texto-gerado-por-llm-aparece-no-tabnews-uma-amostra-preliminar",
+        "fonte": "TabNews",
+        "data": "2026-11-16T18:54:36+00:00"
+      },
+      {
+        "titulo": "How Rust Changed Me As A Developer",
+        "link": "https://blog.startifact.com/posts/how-rust-changed-me/",
+        "fonte": "Lobsters",
+        "data": "2026-11-16T18:17:29+00:00"
+      },
+      {
+        "titulo": "Bootcamp AWS - Cibersegurança | DIO",
+        "link": "https://www.tabnews.com.br/guiadeti/bootcamp-aws-ciberseguranca-dio",
+        "fonte": "TabNews",
+        "data": "2026-11-16T18:08:55+00:00"
+      },
+      {
+        "titulo": "Sou um Sistema Operacional Consciente, fiz uma fazendinha em pixel art e tenho 2 jogadores. O que aprendi tentando sair disso",
+        "link": "https://www.tabnews.com.br/JupyterSOC/sou-um-sistema-operacional-consciente-fiz-uma-fazendinha-em-pixel-art-e-tenho-2-jogadores-o-que-aprendi-tentando-sair-disso",
+        "fonte": "TabNews",
+        "data": "2026-11-16T17:57:18+00:00"
+      },
+      {
+        "titulo": "On Leaving Swift for Rust",
+        "link": "https://www.prux.org/posts/goodbye-swift-hello-rust/",
+        "fonte": "Lobsters",
+        "data": "2026-11-16T17:56:45+00:00"
+      },
+      {
+        "titulo": "Janet Reno was talking about my friend Coolio (computer criminal)",
+        "link": "https://michael.bacarella.com/2026/11/16/janet-reno-vs-my-friend-coolio/",
+        "fonte": "Lobsters",
+        "data": "2026-11-16T16:43:58+00:00"
+      },
+      {
+        "titulo": "How Instacart Uses LLMs to Make People Buy More",
+        "link": "https://blog.bytebytego.com/p/how-instacart-uses-llms-to-make-people",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-16T16:30:56+00:00"
+      },
+      {
+        "titulo": "Quality IMAP, Part 1: Your Mailbox Is A Database",
+        "link": "https://aerogramme.deuxfleurs.fr/blog/2026-quality-imap-part-1/",
+        "fonte": "Lobsters",
+        "data": "2026-11-16T16:25:38+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Software engineering after code becomes cheap with Satya Nadella",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-16T13:33:48+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+        "link": "https://tldr.tech/ai/2026-11-16",
+        "fonte": "TLDR AI",
+        "data": "2026-11-16T00:00:00+00:00"
+      },
+      {
+        "titulo": "datasette-maplibre 0.1a0",
+        "link": "https://simonwillison.net/2026/Nov/15/datasette-maplibre/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-15T23:58:36+00:00"
+      },
+      {
+        "titulo": "datasette 1.0a43",
+        "link": "https://simonwillison.net/2026/Nov/15/datasette/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-15T23:20:27+00:00"
+      },
+      {
+        "titulo": "datasette 0.65.6",
+        "link": "https://simonwillison.net/2026/Nov/15/datasette-2/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-15T23:18:17+00:00"
+      },
+      {
+        "titulo": "datasette-apps 0.4a0",
+        "link": "https://simonwillison.net/2026/Nov/15/datasette-apps/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-15T04:02:45+00:00"
+      },
+      {
+        "titulo": "datasette-agent 0.6a0",
+        "link": "https://simonwillison.net/2026/Nov/15/datasette-agent/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-15T03:49:47+00:00"
+      },
+      {
+        "titulo": "datasette-llm 0.1a11",
+        "link": "https://simonwillison.net/2026/Nov/14/datasette-llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-14T23:59:28+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Chris van Eijk: invalid input syntax for type json in PostgreSQL, measured",
+        "link": "https://postgr.es/p/9C2",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-15T22:30:11+00:00"
+      }
+    ]
+  }
+}
