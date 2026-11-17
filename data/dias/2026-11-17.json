@@ -1,0 +1,178 @@
+{
+  "deep": {
+    "data": "2026-11-17",
+    "titulo": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+    "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+    "fonte": "Quanta (CS)",
+    "tema": "Ciência da Computação",
+    "resumo": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do, devise a standardized test to gauge it.…",
+    "minutos": null,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Phrack 73",
+        "link": "https://phrack.org/issues/73/introduction_md.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-17T17:40:32+00:00"
+      },
+      {
+        "titulo": "Curso SAP para iniciantes: webinar gratuito da Ka Solution",
+        "link": "https://www.tabnews.com.br/guiadeti/curso-sap-para-iniciantes-webinar-gratuito-da-ka-solution",
+        "fonte": "TabNews",
+        "data": "2026-11-17T17:27:04+00:00"
+      },
+      {
+        "titulo": "Making Games in Go: Entity Component System (ECS)",
+        "link": "https://threedots.tech/post/making-games-in-go-ecs/",
+        "fonte": "Lobsters",
+        "data": "2026-11-17T17:18:53+00:00"
+      },
+      {
+        "titulo": "Javascript Funcional ou OO?",
+        "link": "https://www.tabnews.com.br/GermanSparrow/javascript-funcional-ou-oo",
+        "fonte": "TabNews",
+        "data": "2026-11-17T17:11:51+00:00"
+      },
+      {
+        "titulo": "Engineering AI Discover",
+        "link": "https://netflixtechblog.com/engineering-ai-discover-e244944cdc38?source=rss----2615bd06b42e---4",
+        "fonte": "Netflix TechBlog",
+        "data": "2026-11-17T17:01:02+00:00"
+      },
+      {
+        "titulo": "Seu LLM acerta? Meça por amostra, não pelo painel",
+        "link": "https://www.tabnews.com.br/RodrigoSyncDataStudioAi/seu-llm-acerta-meca-por-amostra-nao-pelo-painel",
+        "fonte": "TabNews",
+        "data": "2026-11-17T16:39:23+00:00"
+      },
+      {
+        "titulo": "GitHub Actions: limites do SHA pinning e como lockfiles verificam a origem",
+        "link": "https://www.tabnews.com.br/guiadeti/github-actions-limites-do-sha-pinning-e-como-lockfiles-verificam-a-origem",
+        "fonte": "TabNews",
+        "data": "2026-11-17T16:37:53+00:00"
+      },
+      {
+        "titulo": "Backdoors GitDoor e GraphDoor usam GitHub e SharePoint para espionar governos",
+        "link": "https://www.tabnews.com.br/guiadeti/backdoors-gitdoor-e-graphdoor-usam-github-e-sharepoint-para-espionar-governos",
+        "fonte": "TabNews",
+        "data": "2026-11-17T16:37:07+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+        "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-17T16:48:33+00:00"
+      },
+      {
+        "titulo": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+        "link": "https://latent.space/p/cloudflare/",
+        "fonte": "Latent Space",
+        "data": "2026-11-17T15:00:00+00:00"
+      },
+      {
+        "titulo": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+        "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+        "fonte": "Latent Space",
+        "data": "2026-11-17T09:24:56+00:00"
+      },
+      {
+        "titulo": "Quoting Go Proverbs",
+        "link": "https://simonwillison.net/2026/Nov/17/go-proverbs/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-17T06:16:26+00:00"
+      },
+      {
+        "titulo": "Perplexity Research 🧪, NVIDIA Rubin HPC 🖥️, OpenAI safety assessments 👨‍💻",
+        "link": "https://tldr.tech/ai/2026-11-17",
+        "fonte": "TLDR AI",
+        "data": "2026-11-17T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm 0.37.3",
+        "link": "https://simonwillison.net/2026/Nov/16/llm/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-16T23:57:26+00:00"
+      },
+      {
+        "titulo": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
+        "link": "https://latent.space/p/bfl/",
+        "fonte": "Latent Space",
+        "data": "2026-11-16T21:38:03+00:00"
+      },
+      {
+        "titulo": "ChatGPT Wallet 💳, Devin Apps 🛠️, always-on agents ⚡",
+        "link": "https://tldr.tech/ai/2026-11-16",
+        "fonte": "TLDR AI",
+        "data": "2026-11-16T00:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Inference engineering for software engineers",
+        "link": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-17T16:11:23+00:00"
+      },
+      {
+        "titulo": "Software engineering after code becomes cheap with Satya Nadella",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-engineering-after-code-becomes",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-16T13:33:48+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Dimitri Fontaine: Distributed primary keys",
+        "link": "https://postgr.es/p/9Ce",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T15:00:00+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: PostgreSQL in Docker for Production: Volumes, Shared Memory, Pooling & Backups",
+        "link": "https://postgr.es/p/9Cd",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T06:30:00+00:00"
+      },
+      {
+        "titulo": "Bryan Green: Working the PgUS Booth at Texas Linux Fest 2026",
+        "link": "https://postgr.es/p/9Cb",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T04:43:20+00:00"
+      },
+      {
+        "titulo": "Dave Stokes: Getting Started With Ollama With DBeaver Community Edition",
+        "link": "https://postgr.es/p/9C9",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T01:30:17+00:00"
+      },
+      {
+        "titulo": "Introducing Insights Agent",
+        "link": "https://planetscale.com/blog/introducing-insights-agent",
+        "fonte": "PlanetScale",
+        "data": "2026-11-17T00:00:00+00:00"
+      },
+      {
+        "titulo": "Dinesh Kumar: pgSherpa: a PostgreSQL companion for your Mac, now on the Mac App Store",
+        "link": "https://postgr.es/p/9C8",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-16T23:00:15+00:00"
+      },
+      {
+        "titulo": "David E. Wheeler: Build, Test and Release Extensions with the New PGXN GitHub Actions",
+        "link": "https://postgr.es/p/9C7",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-16T20:14:17+00:00"
+      },
+      {
+        "titulo": "What does it mean to understand what we built?",
+        "link": "http://brooker.co.za/blog/2026/11/16/understanding.html",
+        "fonte": "Marc Brooker",
+        "data": "2026-11-16T00:00:00+00:00"
+      }
+    ]
+  }
+}

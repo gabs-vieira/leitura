@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-17",
+    "titulo": "He Wants AI Benchmarking To Be a Science, Not a Dark Art",
+    "link": "https://www.quantamagazine.org/he-wants-ai-benchmarking-to-be-a-science-not-a-dark-art-20261016/",
+    "fonte": "Quanta (CS)",
+    "tema": "Ciência da Computação",
+    "resumo": "Benchmarks are the rulers of AI, in both senses of the word. As measuring sticks, they work according to an extremely simple logic: If you want to know what an AI model can do, devise a standardized test to gauge it.…",
+    "minutos": null,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  {
     "data": "2026-11-16",
     "titulo": "How we migrate TBs from Heroku without logical replication",
     "link": "https://planetscale.com/blog/migrate-from-heroku-to-planetscale",
