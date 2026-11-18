@@ -1,0 +1,172 @@
+{
+  "deep": {
+    "data": "2026-11-18",
+    "titulo": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+    "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "OpenAI shipped GPT-6.2 Astra and Sol today, two days before Anthropic’s expected first trading day . In Artificial Analysis ’ tests, Sol ties September’s Astra at about 15% of the cost per task . New Astra scores 62 on…",
+    "minutos": 6,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "CISA pede correção imediata de falha crítica no Oracle Java",
+        "link": "https://www.tabnews.com.br/guiadeti/cisa-pede-correcao-imediata-de-falha-critica-no-oracle-java",
+        "fonte": "TabNews",
+        "data": "2026-11-18T17:40:44+00:00"
+      },
+      {
+        "titulo": "markdownWeb",
+        "link": "https://demo.bonbonweb.org/",
+        "fonte": "Lobsters",
+        "data": "2026-11-18T17:35:19+00:00"
+      },
+      {
+        "titulo": "The Magic of Partial Evaluation",
+        "link": "https://jimmyhmiller.com/magic-of-partial-evaluation",
+        "fonte": "Lobsters",
+        "data": "2026-11-18T17:30:14+00:00"
+      },
+      {
+        "titulo": "Webhook do WhatsApp Cloud API | como validar o X-Hub-Signature-256 em Node.js e PHP e os 3 erros que quebram a assinatura",
+        "link": "https://www.tabnews.com.br/rodriggopda/webhook-do-whatsapp-cloud-api-como-validar-o-x-hub-signature-256-em-node-js-e-php-e-os-3-erros-que-quebram-a-assinatura",
+        "fonte": "TabNews",
+        "data": "2026-11-18T16:58:56+00:00"
+      },
+      {
+        "titulo": "How I made a custom game engine for Satelital",
+        "link": "https://spectralorbit.com/blog/satelital_game_engine",
+        "fonte": "Lobsters",
+        "data": "2026-11-18T16:39:00+00:00"
+      },
+      {
+        "titulo": "Curso gratuito Fundamentos do Power BI | Santander Open Academy",
+        "link": "https://www.tabnews.com.br/guiadeti/curso-gratuito-fundamentos-do-power-bi-santander-open-academy",
+        "fonte": "TabNews",
+        "data": "2026-11-18T16:37:26+00:00"
+      },
+      {
+        "titulo": "Serpro planeja fábrica de agentes de IA para a plataforma IA Brasil",
+        "link": "https://www.tabnews.com.br/guiadeti/serpro-planeja-fabrica-de-agentes-de-ia-para-a-plataforma-ia-brasil",
+        "fonte": "TabNews",
+        "data": "2026-11-18T16:35:31+00:00"
+      },
+      {
+        "titulo": "Java4Shell (CVE-2026-114938): como corrigir OpenJDK em imagens Alpine",
+        "link": "https://www.tabnews.com.br/guiadeti/java4shell-cve-2026-114938-como-corrigir-openjdk-em-imagens-alpine",
+        "fonte": "TabNews",
+        "data": "2026-11-18T16:34:43+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Quoting Daniel Stenberg",
+        "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T15:58:27+00:00"
+      },
+      {
+        "titulo": "The PSF end-of-year fundraiser",
+        "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T14:44:48+00:00"
+      },
+      {
+        "titulo": "GPT-6.2 Astra 🧠, Microsoft’s seven models 🚀, Replit Missions 🤖",
+        "link": "https://tldr.tech/ai/2026-11-18",
+        "fonte": "TLDR AI",
+        "data": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "titulo": "External sandboxes for coding agents",
+        "link": "https://simonwillison.net/2026/Nov/17/external-sandboxes-for-coding-agents/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-17T22:52:29+00:00"
+      },
+      {
+        "titulo": "GPT‑6.2 Astra and GPT‑6.2 Sol",
+        "link": "https://simonwillison.net/2026/Nov/17/gpt62-astra-and-sol/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-17T22:38:52+00:00"
+      },
+      {
+        "titulo": "Running the full server-side Datasette Python app in the browser with service workers and Pyodide",
+        "link": "https://simonwillison.net/2026/Nov/17/datasette-lite/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-17T16:48:33+00:00"
+      },
+      {
+        "titulo": "Cloudflare Joins the Jevolution and Labels Itself a Neolab",
+        "link": "https://latent.space/p/cloudflare/",
+        "fonte": "Latent Space",
+        "data": "2026-11-17T15:00:00+00:00"
+      },
+      {
+        "titulo": "[AINews] Perplexity hits a $1B revenue run rate, up 4x in 2026",
+        "link": "https://latent.space/p/ainews-perplexity-hits-a-1b-revenue-run-rate-up-4x-in-2026/",
+        "fonte": "Latent Space",
+        "data": "2026-11-17T09:24:56+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "damien clochard: PGRX 0.20: Build your own RPM/DEB packages",
+        "link": "https://postgr.es/p/9Cu",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T12:30:36+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: The hidden costs of CREATE TEMP TABLE: catalog bloat and LWLock:SInvalWrite",
+        "link": "https://postgr.es/p/9Ch",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T07:00:26+00:00"
+      },
+      {
+        "titulo": "TLAPS-Bench: Formally Proving Correctness Of Real-World System Specifications With TLA+ Proof System",
+        "link": "https://muratbuffalo.blogspot.com/2026/11/tlaps-bench-formally-proving.html",
+        "fonte": "Murat Demirbas (Metadata)",
+        "data": "2026-11-18T06:19:39+00:00"
+      },
+      {
+        "titulo": "PlanetScale ranks #24 in Deloitte's Technology Fast 500",
+        "link": "https://planetscale.com/blog/planetscale-ranks-24-in-deloittes-technology-fast-500",
+        "fonte": "PlanetScale",
+        "data": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "titulo": "Traffic mix matters",
+        "link": "http://brooker.co.za/blog/2026/11/18/workload-mix.html",
+        "fonte": "Marc Brooker",
+        "data": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "titulo": "salaheddine el hssani: Checking a compiler against a second implementation",
+        "link": "https://postgr.es/p/9Cv",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T00:00:00+00:00"
+      },
+      {
+        "titulo": "Kaarel Moppel: A public safety reminder - large Postgres instances love huge pages",
+        "link": "https://postgr.es/p/9Cg",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T22:00:00+00:00"
+      },
+      {
+        "titulo": "Dimitri Fontaine: Distributed primary keys",
+        "link": "https://postgr.es/p/9Ce",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-17T15:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Inference engineering for software engineers",
+        "link": "https://newsletter.pragmaticengineer.com/p/inference-engineering-for-software-engineers",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-17T16:11:23+00:00"
+      }
+    ]
+  }
+}
