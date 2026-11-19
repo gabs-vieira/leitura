@@ -1,0 +1,172 @@
+{
+  "deep": {
+    "data": "2026-11-19",
+    "titulo": "Software factories and code reviews with Harjot Gill",
+    "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+    "fonte": "The Pragmatic Engineer",
+    "tema": "Carreira",
+    "resumo": "Listen and watch now on YouTube , Apple , and Spotify . See the episode transcript at the top of this page, and timestamps for the episode at the bottom. Brought to You by • turbopuffer – a ridiculously scalable, fast…",
+    "minutos": 10,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Satélites já superam estrelas visíveis a olho nu em várias regiões da Europa e dos EUA",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/satelites-ja-superam-estrelas-visiveis-a-olho-nu-em-varias-regioes-da-europa-e-dos-eua",
+        "fonte": "TabNews",
+        "data": "2026-11-19T17:21:27+00:00"
+      },
+      {
+        "titulo": "ANPD rejeita recurso do Discord e mantém suspensas as transmissões ao vivo no Brasil",
+        "link": "https://www.tabnews.com.br/NewsletterOficial/anpd-rejeita-recurso-do-discord-e-mantem-suspensas-as-transmissoes-ao-vivo-no-brasil",
+        "fonte": "TabNews",
+        "data": "2026-11-19T17:00:21+00:00"
+      },
+      {
+        "titulo": "Qu Wenruo propõe regras para patches de humanos e agentes de IA no Btrfs",
+        "link": "https://www.tabnews.com.br/guiadeti/qu-wenruo-propoe-regras-para-patches-de-humanos-e-agentes-de-ia-no-btrfs",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:46:14+00:00"
+      },
+      {
+        "titulo": "Instabilidade na rede da FAA paralisou voos nos EUA por 4,5 horas",
+        "link": "https://www.tabnews.com.br/guiadeti/instabilidade-na-rede-da-faa-paralisou-voos-nos-eua-por-4-5-horas",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:45:25+00:00"
+      },
+      {
+        "titulo": "Comissão Europeia confirma ataque cibernético com ferramentas de IA",
+        "link": "https://www.tabnews.com.br/guiadeti/comissao-europeia-confirma-ataque-cibernetico-com-ferramentas-de-ia",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:44:36+00:00"
+      },
+      {
+        "titulo": "Ataque a fornecedores do JPMorgan pode expor nomes e e-mails",
+        "link": "https://www.tabnews.com.br/guiadeti/ataque-a-fornecedores-do-jpmorgan-pode-expor-nomes-e-e-mails",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:43:45+00:00"
+      },
+      {
+        "titulo": "Cursos gratuitos de Harvard na edX: acesso e certificados",
+        "link": "https://www.tabnews.com.br/guiadeti/cursos-gratuitos-de-harvard-na-edx-acesso-e-certificados",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:42:39+00:00"
+      },
+      {
+        "titulo": "A fatura do NAT Gateway é uma linha e o tráfego é de doze times: quem paga o NAT compartilhado na AWS, no Azure, no GCP e na OCI",
+        "link": "https://www.tabnews.com.br/gonzalogjuka/a-fatura-do-nat-gateway-e-uma-linha-e-o-trafego-e-de-doze-times-quem-paga-o-nat-compartilhado-na-aws-no-azure-no-gcp-e-na-oci",
+        "fonte": "TabNews",
+        "data": "2026-11-19T16:34:40+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-19T17:08:59+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Dave Stokes: Using dbvr with PostgreSQL: From First Datasource to Production Queries",
+        "link": "https://postgr.es/p/9CS",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T15:55:58+00:00"
+      },
+      {
+        "titulo": "David Wheeler: pg_clickhouse 0.11.1: Now with pgvector, UPDATE, DELETE pushdown",
+        "link": "https://postgr.es/p/9CR",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:52:49+00:00"
+      },
+      {
+        "titulo": "Radim Marek: Your biggest tenant runs someone else's plan",
+        "link": "https://postgr.es/p/9CQ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:30:46+00:00"
+      },
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 45",
+        "link": "https://postgr.es/p/9CP",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:27:11+00:00"
+      },
+      {
+        "titulo": "Building PlanetScale with Insights Agent",
+        "link": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
+        "fonte": "PlanetScale",
+        "data": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "titulo": "Andrew Dunstan: New Security Infrastructure for PostgreSQL",
+        "link": "https://postgr.es/p/9CO",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T20:36:15+00:00"
+      },
+      {
+        "titulo": "damien clochard: PGRX 0.20: Build your own RPM/DEB packages",
+        "link": "https://postgr.es/p/9Cu",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T12:30:36+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: The hidden costs of CREATE TEMP TABLE: catalog bloat and LWLock:SInvalWrite",
+        "link": "https://postgr.es/p/9Ch",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-18T07:00:26+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "fonte": "Latent Space",
+        "data": "2026-11-19T07:07:43+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+        "link": "https://tldr.tech/ai/2026-11-19",
+        "fonte": "TLDR AI",
+        "data": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm-gemini 0.38",
+        "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T23:59:20+00:00"
+      },
+      {
+        "titulo": "datasette-arrows 0.1a0",
+        "link": "https://simonwillison.net/2026/Nov/18/datasette-arrows/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T17:09:59+00:00"
+      },
+      {
+        "titulo": "Quoting Daniel Stenberg",
+        "link": "https://simonwillison.net/2026/Nov/18/daniel-stenberg/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T15:58:27+00:00"
+      },
+      {
+        "titulo": "The PSF end-of-year fundraiser",
+        "link": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T14:44:48+00:00"
+      },
+      {
+        "titulo": "[AINews] GPT-6.2 Astra, the #2 Frontier Model is better and 20%-600% cheaper, but has mixed reviews; 6.2 Sol likely main workhorse",
+        "link": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol/",
+        "fonte": "Latent Space",
+        "data": "2026-11-18T10:19:04+00:00"
+      },
+      {
+        "titulo": "GPT-6.2 Astra 🧠, Microsoft’s seven models 🚀, Replit Missions 🤖",
+        "link": "https://tldr.tech/ai/2026-11-18",
+        "fonte": "TLDR AI",
+        "data": "2026-11-18T00:00:00+00:00"
+      }
+    ]
+  }
+}
