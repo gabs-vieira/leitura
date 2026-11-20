@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-20",
+    "titulo": "LLM Benchmark v5: Quanto Custa ser Competente o Suficiente?",
+    "link": "https://www.akitaonrails.com/2026/11/20/llm-benchmark-v5-quanto-custa-ser-competente-o-suficiente/",
+    "fonte": "AkitaOnRails",
+    "tema": "Backend",
+    "resumo": "No meu último benchmark comercial de LLMs , eu já tinha avisado que provavelmente pararia de atualizar aquele ranking. Eu continuo achando que não vale mais a pena ficar correndo atrás de cada lançamento só para medir…",
+    "minutos": 12,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  {
     "data": "2026-11-19",
     "titulo": "Software factories and code reviews with Harjot Gill",
     "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",

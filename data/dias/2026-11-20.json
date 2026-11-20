@@ -1,0 +1,186 @@
+{
+  "deep": {
+    "data": "2026-11-20",
+    "titulo": "LLM Benchmark v5: Quanto Custa ser Competente o Suficiente?",
+    "link": "https://www.akitaonrails.com/2026/11/20/llm-benchmark-v5-quanto-custa-ser-competente-o-suficiente/",
+    "fonte": "AkitaOnRails",
+    "tema": "Backend",
+    "resumo": "No meu último benchmark comercial de LLMs , eu já tinha avisado que provavelmente pararia de atualizar aquele ranking. Eu continuo achando que não vale mais a pena ficar correndo atrás de cada lançamento só para medir…",
+    "minutos": 12,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "What the hell is going on with that AI IPO?",
+        "link": "https://www.tabnews.com.br/trrxjhdf86/what-the-hell-is-going-on-with-that-ai-ipo",
+        "fonte": "TabNews",
+        "data": "2026-11-20T17:18:10+00:00"
+      },
+      {
+        "titulo": "Bending Spoons compra Mailchimp por US$ 3,68 bilhões da Intuit",
+        "link": "https://www.tabnews.com.br/guiadeti/bending-spoons-compra-mailchimp-por-us-3-68-bilhoes-da-intuit",
+        "fonte": "TabNews",
+        "data": "2026-11-20T17:11:56+00:00"
+      },
+      {
+        "titulo": "Mozilla diz que regras da Apple seguem impedindo navegadores sem WebKit no iOS",
+        "link": "https://www.tabnews.com.br/guiadeti/mozilla-diz-que-regras-da-apple-seguem-impedindo-navegadores-sem-webkit-no-ios",
+        "fonte": "TabNews",
+        "data": "2026-11-20T17:11:04+00:00"
+      },
+      {
+        "titulo": "Por que reescrevi o type-tune de TypeScript para Rust? 🦀",
+        "link": "https://www.tabnews.com.br/nyaomaru/por-que-reescrevi-o-type-tune-de-typescript-para-rust",
+        "fonte": "TabNews",
+        "data": "2026-11-20T16:51:56+00:00"
+      },
+      {
+        "titulo": "ISACA lança COBIT 7 para governança de TI com avaliações atualizadas",
+        "link": "https://www.tabnews.com.br/guiadeti/isaca-lanca-cobit-7-para-governanca-de-ti-com-avaliacoes-atualizadas",
+        "fonte": "TabNews",
+        "data": "2026-11-20T16:46:46+00:00"
+      },
+      {
+        "titulo": "Linux prepara firmware v3 da Realtek para o Bluetooth RTL8922D",
+        "link": "https://www.tabnews.com.br/guiadeti/linux-prepara-firmware-v3-da-realtek-para-o-bluetooth-rtl8922d",
+        "fonte": "TabNews",
+        "data": "2026-11-20T16:45:58+00:00"
+      },
+      {
+        "titulo": "PostgreSQL 19 chega com recursos de administração e desenvolvimento",
+        "link": "https://www.tabnews.com.br/guiadeti/postgresql-19-chega-com-recursos-de-administracao-e-desenvolvimento",
+        "fonte": "TabNews",
+        "data": "2026-11-20T16:45:16+00:00"
+      },
+      {
+        "titulo": "RFC propõe cache de filtros seccomp para acelerar sandboxes Linux",
+        "link": "https://www.tabnews.com.br/guiadeti/rfc-propoe-cache-de-filtros-seccomp-para-acelerar-sandboxes-linux",
+        "fonte": "TabNews",
+        "data": "2026-11-20T16:44:26+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Quoting Levent Alpöge",
+        "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T16:30:48+00:00"
+      },
+      {
+        "titulo": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+        "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "fonte": "Latent Space",
+        "data": "2026-11-20T07:12:24+00:00"
+      },
+      {
+        "titulo": "Token fraud is here and it’s BAD (YouTube)",
+        "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T02:49:57+00:00"
+      },
+      {
+        "titulo": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+        "link": "https://tldr.tech/ai/2026-11-20",
+        "fonte": "TLDR AI",
+        "data": "2026-11-20T00:00:00+00:00"
+      },
+      {
+        "titulo": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+        "link": "https://latent.space/p/linear-scaling/",
+        "fonte": "Latent Space",
+        "data": "2026-11-19T23:58:21+00:00"
+      },
+      {
+        "titulo": "[AINews] Gemini 4 Neon: GDM's Opus/Sol Contender",
+        "link": "https://latent.space/p/ainews-gemini-4-neon-gdm-s-opus-sol-contender/",
+        "fonte": "Latent Space",
+        "data": "2026-11-19T07:07:43+00:00"
+      },
+      {
+        "titulo": "Gemini 4 Neon 🚀, Genie 4 worlds 🌍, AI designs chips 🔬",
+        "link": "https://tldr.tech/ai/2026-11-19",
+        "fonte": "TLDR AI",
+        "data": "2026-11-19T00:00:00+00:00"
+      },
+      {
+        "titulo": "llm-gemini 0.38",
+        "link": "https://simonwillison.net/2026/Nov/18/llm-gemini/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-18T23:59:20+00:00"
+      }
+    ],
+    "Ciência da Computação": [
+      {
+        "titulo": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+        "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+        "fonte": "Quanta (CS)",
+        "data": "2026-11-20T14:50:41+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Jimmy Angelakos: postgres.scot November 2026: a live Radar demo and Call for Presentations for December meetup",
+        "link": "https://postgr.es/p/9D9",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T13:08:00+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: PostgreSQL 19 vs 18: Native REPACK, pg_plan_advice, Graph Myth & Production Upgrade Guide",
+        "link": "https://postgr.es/p/9Da",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T09:00:00+00:00"
+      },
+      {
+        "titulo": "Zsolt Parragi: What's left in Postgres 19",
+        "link": "https://postgr.es/p/9D8",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T00:00:00+00:00"
+      },
+      {
+        "titulo": "Ahsan Hadi: PostgreSQL 19 is Here: Worth the Wait",
+        "link": "https://postgr.es/p/9CT",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T17:37:36+00:00"
+      },
+      {
+        "titulo": "Dave Stokes: Using dbvr with PostgreSQL: From First Datasource to Production Queries",
+        "link": "https://postgr.es/p/9CS",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T15:55:58+00:00"
+      },
+      {
+        "titulo": "David Wheeler: pg_clickhouse 0.11.1: Now with pgvector, UPDATE, DELETE pushdown",
+        "link": "https://postgr.es/p/9CR",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:52:49+00:00"
+      },
+      {
+        "titulo": "Radim Marek: Your biggest tenant runs someone else's plan",
+        "link": "https://postgr.es/p/9CQ",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:30:46+00:00"
+      },
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 45",
+        "link": "https://postgr.es/p/9CP",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T11:27:11+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-19T17:08:59+00:00"
+      },
+      {
+        "titulo": "Software factories and code reviews with Harjot Gill",
+        "link": "https://newsletter.pragmaticengineer.com/p/software-factories-and-code-reviews",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-18T18:08:52+00:00"
+      }
+    ]
+  }
+}
