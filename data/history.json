@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-21",
+    "titulo": "Building PlanetScale with Insights Agent",
+    "link": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "We've always used PlanetScale to build PlanetScale. So when we built Insights Agent, our own databases were the first place we ran it to see what kind of gains we could get. Insights Agent identifies problematic queries…",
+    "minutos": 5,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  {
     "data": "2026-11-20",
     "titulo": "LLM Benchmark v5: Quanto Custa ser Competente o Suficiente?",
     "link": "https://www.akitaonrails.com/2026/11/20/llm-benchmark-v5-quanto-custa-ser-competente-o-suficiente/",

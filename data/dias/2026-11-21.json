@@ -1,0 +1,174 @@
+{
+  "deep": {
+    "data": "2026-11-21",
+    "titulo": "Building PlanetScale with Insights Agent",
+    "link": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
+    "fonte": "PlanetScale",
+    "tema": "Databases",
+    "resumo": "We've always used PlanetScale to build PlanetScale. So when we built Insights Agent, our own databases were the first place we ran it to see what kind of gains we could get. Insights Agent identifies problematic queries…",
+    "minutos": 5,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Construí uma API para consultar dados de resíduos (residuoapi.com.br)",
+        "link": "https://www.tabnews.com.br/residuoapi/construi-uma-api-para-consultar-dados-de-residuos-residuoapi-com-br",
+        "fonte": "TabNews",
+        "data": "2026-11-21T16:03:40+00:00"
+      },
+      {
+        "titulo": "Three breaches, endless leaks: Your AI supply chain needs canaries",
+        "link": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+        "fonte": "Lobsters",
+        "data": "2026-11-21T15:48:50+00:00"
+      },
+      {
+        "titulo": "TODOs JJ Style",
+        "link": "https://bwc9876.dev/blog/jj_todo/",
+        "fonte": "Lobsters",
+        "data": "2026-11-21T15:17:18+00:00"
+      },
+      {
+        "titulo": "Meu relatório anual travava o Trino: 144 milhões de linhas e o que mudou no script Python",
+        "link": "https://www.tabnews.com.br/DanielCamucatto/meu-relatorio-anual-travava-o-trino-144-milhoes-de-linhas-e-o-que-mudou-no-script-python",
+        "fonte": "TabNews",
+        "data": "2026-11-21T14:51:35+00:00"
+      },
+      {
+        "titulo": "Lean Verification of the Riemann Hypothesis - Joint statement by...",
+        "link": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-11-21T14:36:45+00:00"
+      },
+      {
+        "titulo": "Grafana 13.3 Adds Shared Dashboard Variables and Notebooks",
+        "link": "https://www.infoq.com/news/2026/11/grafana-13-3-shared-variables/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-21T14:30:00+00:00"
+      },
+      {
+        "titulo": "🔥 O Melhor da Semana no TabNews #40",
+        "link": "https://www.tabnews.com.br/TabNewsDigest/o-melhor-da-semana-no-tabnews-40",
+        "fonte": "TabNews",
+        "data": "2026-11-21T14:24:53+00:00"
+      },
+      {
+        "titulo": "Pitch: A Última Palavra — um site em que a palavra do topo só muda se alguém pagar o dobro",
+        "link": "https://www.tabnews.com.br/ultimapalavra/pitch-a-ultima-palavra-um-site-em-que-a-palavra-do-topo-so-muda-se-alguem-pagar-o-dobro",
+        "fonte": "TabNews",
+        "data": "2026-11-21T14:00:08+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "The Explorer Pattern for product invention and development.",
+        "link": "https://lethain.com/explorer-pattern/",
+        "fonte": "Irrational Exuberance (Will Larson)",
+        "data": "2026-11-21T15:00:00+00:00"
+      },
+      {
+        "titulo": "Why output caching doesn't work",
+        "link": "https://seangoedecke.com/why-output-caching-doesnt-work/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-21T00:00:00+00:00"
+      },
+      {
+        "titulo": "The Pulse: Is Amazon’s writing culture collapsing because of AI?",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pulse-is-amazons-writing-culture",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-19T17:08:59+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Vibhor Kumar: Relevance Is Not Permission: Filter-First Vector Search in PostgreSQL",
+        "link": "https://postgr.es/p/9Db",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-21T12:59:52+00:00"
+      },
+      {
+        "titulo": "Jimmy Angelakos: postgres.scot November 2026: a live Radar demo and Call for Presentations for December meetup",
+        "link": "https://postgr.es/p/9D9",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T13:08:00+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: PostgreSQL 19 vs 18: Native REPACK, pg_plan_advice, Graph Myth & Production Upgrade Guide",
+        "link": "https://postgr.es/p/9Da",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T09:00:00+00:00"
+      },
+      {
+        "titulo": "Zsolt Parragi: What's left in Postgres 19",
+        "link": "https://postgr.es/p/9D8",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-20T00:00:00+00:00"
+      },
+      {
+        "titulo": "Ahsan Hadi: PostgreSQL 19 is Here: Worth the Wait",
+        "link": "https://postgr.es/p/9CT",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-19T17:37:36+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] Riemann Hypothesis proved...twice independently",
+        "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "fonte": "Latent Space",
+        "data": "2026-11-21T05:02:13+00:00"
+      },
+      {
+        "titulo": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+        "link": "https://latent.space/p/formal-verification/",
+        "fonte": "Latent Space",
+        "data": "2026-11-20T21:18:41+00:00"
+      },
+      {
+        "titulo": "Quoting Ravi Vakil",
+        "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T19:21:49+00:00"
+      },
+      {
+        "titulo": "Quoting Levent Alpöge",
+        "link": "https://simonwillison.net/2026/Nov/20/levent-alpoge/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T16:30:48+00:00"
+      },
+      {
+        "titulo": "[AINews] Anthropic successfully completes largest IPO in history, valued at $1.5T",
+        "link": "https://latent.space/p/ainews-anthropic-successfully-completes-largest-ipo-in-history-valued-at-1-5t/",
+        "fonte": "Latent Space",
+        "data": "2026-11-20T07:12:24+00:00"
+      },
+      {
+        "titulo": "Token fraud is here and it’s BAD (YouTube)",
+        "link": "https://simonwillison.net/2026/Nov/20/token-fraud-is-here-and-its-bad/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T02:49:57+00:00"
+      },
+      {
+        "titulo": "Gemini tool retrieval 🔧, Stripe evals methods 👨‍💻, agent swarms 🐝",
+        "link": "https://tldr.tech/ai/2026-11-20",
+        "fonte": "TLDR AI",
+        "data": "2026-11-20T00:00:00+00:00"
+      },
+      {
+        "titulo": "Scaling Linear’s GTM to $100M ARR — Cristina Cordova, COO",
+        "link": "https://latent.space/p/linear-scaling/",
+        "fonte": "Latent Space",
+        "data": "2026-11-19T23:58:21+00:00"
+      }
+    ],
+    "Ciência da Computação": [
+      {
+        "titulo": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+        "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+        "fonte": "Quanta (CS)",
+        "data": "2026-11-20T14:50:41+00:00"
+      }
+    ]
+  }
+}
