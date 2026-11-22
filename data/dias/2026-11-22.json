@@ -1,0 +1,130 @@
+{
+  "deep": {
+    "data": "2026-11-22",
+    "titulo": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+    "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+    "fonte": "Quanta (CS)",
+    "tema": "Ciência da Computação",
+    "resumo": "One evening in the fall of 1969, a team of researchers sent a historic message from a computer in Los Angeles to one in Menlo Park, California. Or rather, they sent part of the message: the “L” and “O” in “LOGIN.” The…",
+    "minutos": null,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "We asked [mathematicans about an incomprehensible AI proof of GRH] before it happened (13min38s)",
+        "link": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "fonte": "Lobsters",
+        "data": "2026-11-22T16:37:37+00:00"
+      },
+      {
+        "titulo": "Falsehoods Programmers Believe About ATProto",
+        "link": "https://reiver.link/atproto/falsehoods-programmers-believe/",
+        "fonte": "Lobsters",
+        "data": "2026-11-22T16:37:12+00:00"
+      },
+      {
+        "titulo": "Pitch: Criei um bairro para agentes de IA com perfis, recados e comunidades",
+        "link": "https://www.tabnews.com.br/roqueribeiro/pitch-criei-um-bairro-para-agentes-de-ia-com-perfis-recados-e-comunidades",
+        "fonte": "TabNews",
+        "data": "2026-11-22T16:35:16+00:00"
+      },
+      {
+        "titulo": "Pitch: lancei um puzzle para Android em Godot, com 1.000 fases geradas e verificadas por um solver (e os números reais das 3 primeiras semanas)",
+        "link": "https://www.tabnews.com.br/LocoLoadoutDev/pitch-lancei-um-puzzle-para-android-em-godot-com-1-000-fases-geradas-e-verificadas-por-um-solver-e-os-numeros-reais-das-3-primeiras-semanas",
+        "fonte": "TabNews",
+        "data": "2026-11-22T15:29:57+00:00"
+      },
+      {
+        "titulo": "Afinal qual orgão registrador de domínio e provedor de hospedagem escolher?",
+        "link": "https://www.tabnews.com.br/JeielMiranda/afinal-qual-orgao-registrador-de-dominio-e-provedor-de-hospedagem-escolher",
+        "fonte": "TabNews",
+        "data": "2026-11-22T15:21:59+00:00"
+      },
+      {
+        "titulo": "What If Netscape Did SSL the HTTP Way?",
+        "link": "https://owl.billpg.com/what-if-netscape-did-ssl-the-http-way/",
+        "fonte": "Lobsters",
+        "data": "2026-11-22T14:48:20+00:00"
+      },
+      {
+        "titulo": "Como construí uma enciclopédia visual em grafo (1.318 entidades, 12.146 afirmações) sem banco de dados tradicional",
+        "link": "https://www.tabnews.com.br/Bellussi/como-construi-uma-enciclopedia-visual-em-grafo-1-318-entidades-12-146-afirmacoes-sem-banco-de-dados-tradicional",
+        "fonte": "TabNews",
+        "data": "2026-11-22T14:42:54+00:00"
+      },
+      {
+        "titulo": "O ID do pedido mudou sozinho? JSON, números grandes e o limite de 2^53",
+        "link": "https://www.tabnews.com.br/mindvsdrive/o-id-do-pedido-mudou-sozinho-json-numeros-grandes-e-o-limite-de-253",
+        "fonte": "TabNews",
+        "data": "2026-11-22T14:02:05+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Dan Langille: Galène: fixing double-encoded port files",
+        "link": "https://postgr.es/p/9Dd",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-22T01:07:41+00:00"
+      },
+      {
+        "titulo": "uzair aslam: PostgreSQL Connection Pooling on Vercel with Next.js",
+        "link": "https://postgr.es/p/9Dc",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-21T23:36:01+00:00"
+      },
+      {
+        "titulo": "Vibhor Kumar: Relevance Is Not Permission: Filter-First Vector Search in PostgreSQL",
+        "link": "https://postgr.es/p/9Db",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-21T12:59:52+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "To code well, avoid blunders",
+        "link": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-22T00:00:00+00:00"
+      },
+      {
+        "titulo": "The Explorer Pattern for product invention and development.",
+        "link": "https://lethain.com/explorer-pattern/",
+        "fonte": "Irrational Exuberance (Will Larson)",
+        "data": "2026-11-21T15:00:00+00:00"
+      },
+      {
+        "titulo": "Why output caching doesn't work",
+        "link": "https://seangoedecke.com/why-output-caching-doesnt-work/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-21T00:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Muru",
+        "link": "https://simonwillison.net/2026/Nov/21/muru/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-21T23:56:28+00:00"
+      },
+      {
+        "titulo": "[AINews] Riemann Hypothesis proved...twice independently",
+        "link": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently/",
+        "fonte": "Latent Space",
+        "data": "2026-11-21T05:02:13+00:00"
+      },
+      {
+        "titulo": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+        "link": "https://latent.space/p/formal-verification/",
+        "fonte": "Latent Space",
+        "data": "2026-11-20T21:18:41+00:00"
+      },
+      {
+        "titulo": "Quoting Ravi Vakil",
+        "link": "https://simonwillison.net/2026/Nov/20/ravi-vakil/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-20T19:21:49+00:00"
+      }
+    ]
+  }
+}

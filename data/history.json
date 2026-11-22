@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-22",
+    "titulo": "Network Researchers Nail Down Theory of ‘Perfect Resilience’",
+    "link": "https://www.quantamagazine.org/network-researchers-nail-down-theory-of-perfect-resilience-20261120/",
+    "fonte": "Quanta (CS)",
+    "tema": "Ciência da Computação",
+    "resumo": "One evening in the fall of 1969, a team of researchers sent a historic message from a computer in Los Angeles to one in Menlo Park, California. Or rather, they sent part of the message: the “L” and “O” in “LOGIN.” The…",
+    "minutos": null,
+    "pergunta": "Qual problema o autor está resolvendo, e qual trade-off ele aceitou pra resolver?"
+  },
+  {
     "data": "2026-11-21",
     "titulo": "Building PlanetScale with Insights Agent",
     "link": "https://planetscale.com/blog/building-planetscale-with-insights-agent",
