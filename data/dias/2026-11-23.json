@@ -1,0 +1,160 @@
+{
+  "deep": {
+    "data": "2026-11-23",
+    "titulo": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+    "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+    "fonte": "Import AI",
+    "tema": "IA",
+    "resumo": "Welcome to Import AI, a newsletter about AI research. Import AI runs on arXiv, cappuccinos, and feedback from readers. Subscribe now Chinese researchers optimize Huawei chips with a kernel improvement benchmark:…",
+    "minutos": 11,
+    "pergunta": "Explique a ideia central em 3 frases, como se fosse pra um colega júnior."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "A mecânica por trás dos parsers de ATS: por que modelos bonitos do Canva quebram a leitura de currículos (e como resolver)",
+        "link": "https://www.tabnews.com.br/genildoburgos/a-mecanica-por-tras-dos-parsers-de-ats-por-que-modelos-bonitos-do-canva-quebram-a-leitura-de-curriculos-e-como-resolver",
+        "fonte": "TabNews",
+        "data": "2026-11-23T20:24:17+00:00"
+      },
+      {
+        "titulo": "UQ researchers send an unblockable message using gravity",
+        "link": "https://news.uq.edu.au/2026-11-uq-researchers-send-unblockable-message-using-gravity",
+        "fonte": "Lobsters",
+        "data": "2026-11-23T20:01:46+00:00"
+      },
+      {
+        "titulo": "QCon San Francisco 2026: Securing AI Agents in Production",
+        "link": "https://www.infoq.com/news/2026/11/qcon-ai-agent-security/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-23T20:00:00+00:00"
+      },
+      {
+        "titulo": "Indicações para hospedagem/deploy de app e banco",
+        "link": "https://www.tabnews.com.br/navyblueiphone/indicacoes-para-hospedagem-deploy-de-app-e-banco",
+        "fonte": "TabNews",
+        "data": "2026-11-23T19:07:55+00:00"
+      },
+      {
+        "titulo": "Antes de cobrar velocidade do time, pergunte o que o item estava esperando",
+        "link": "https://www.tabnews.com.br/kodafirst/antes-de-cobrar-velocidade-do-time-pergunte-o-que-o-item-estava-esperando",
+        "fonte": "TabNews",
+        "data": "2026-11-23T18:32:47+00:00"
+      },
+      {
+        "titulo": "Fiz uma skill open source para o Claude orientar MEI com a regra oficial (e 4 coisas que aprendi pesquisando)",
+        "link": "https://www.tabnews.com.br/Clarki7/fiz-uma-skill-open-source-para-o-claude-orientar-mei-com-a-regra-oficial-e-4-coisas-que-aprendi-pesquisando",
+        "fonte": "TabNews",
+        "data": "2026-11-23T18:32:24+00:00"
+      },
+      {
+        "titulo": "People first, AI second: How to lead an AI product without being an AI expert",
+        "link": "https://building.nu.com/people-first-ai-second-how-to-lead-an-ai-product-without-being-an-ai-expert/",
+        "fonte": "Building Nubank",
+        "data": "2026-11-23T18:15:44+00:00"
+      },
+      {
+        "titulo": "How LinkedIn Built a View-Agnostic Analytics System for Modern iOS UI Architectures",
+        "link": "https://www.infoq.com/news/2026/11/linkedin-view-agnostic-analytics/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-23T18:00:00+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Stefan Fercot: When did I start contributing to pgBackRest, exactly?",
+        "link": "https://postgr.es/p/9Dj",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-23T09:00:00+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: PGAIBench and AAA: can AI safely change production Postgres?",
+        "link": "https://postgr.es/p/9Dh",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-23T01:00:27+00:00"
+      },
+      {
+        "titulo": "Why you shouldn't do application-level sharding",
+        "link": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+        "fonte": "PlanetScale",
+        "data": "2026-11-23T00:00:00+00:00"
+      },
+      {
+        "titulo": "Mats Kindahl: Building a Table Access Method, Part 9: UNLOGGED tables and surviving a restart",
+        "link": "https://postgr.es/p/9Dg",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-22T19:25:18+00:00"
+      },
+      {
+        "titulo": "Henrietta Dombrovskaya: The Last Prairie PUG Meetup of 2026",
+        "link": "https://postgr.es/p/9Df",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-22T18:22:16+00:00"
+      },
+      {
+        "titulo": "Dan Langille: Galène: fixing double-encoded port files",
+        "link": "https://postgr.es/p/9Dd",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-22T01:07:41+00:00"
+      },
+      {
+        "titulo": "uzair aslam: PostgreSQL Connection Pooling on Vercel with Next.js",
+        "link": "https://postgr.es/p/9Dc",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-21T23:36:01+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "When in doubt, flail about",
+        "link": "https://seangoedecke.com/when-in-doubt-flail-about/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-23T00:00:00+00:00"
+      },
+      {
+        "titulo": "Notes on OpenAI's perplexity reveal",
+        "link": "https://seangoedecke.com/notes-on-openais-perplexity-reveal/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-23T00:00:00+00:00"
+      },
+      {
+        "titulo": "Shipping 100+ PRs to production in a week",
+        "link": "https://lethain.com/passing-100-prs-in-a-week/",
+        "fonte": "Irrational Exuberance (Will Larson)",
+        "data": "2026-11-22T12:00:00+00:00"
+      },
+      {
+        "titulo": "To code well, avoid blunders",
+        "link": "https://seangoedecke.com/to-code-well-avoid-blunders/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-22T00:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "OpenAI publishes progress 🧠, Inkling 2 Mini 💧, Riemann proof 📐",
+        "link": "https://tldr.tech/ai/2026-11-23",
+        "fonte": "TLDR AI",
+        "data": "2026-11-23T00:00:00+00:00"
+      },
+      {
+        "titulo": "Select Styling Specimens",
+        "link": "https://simonwillison.net/2026/Nov/22/select-styling/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-22T19:45:06+00:00"
+      },
+      {
+        "titulo": "How Evals are Built, Where they Break, and What to Measure Instead.",
+        "link": "https://eugeneyan.com/writing/public-evals",
+        "fonte": "Eugene Yan",
+        "data": "2026-11-22T00:00:00+00:00"
+      },
+      {
+        "titulo": "Muru",
+        "link": "https://simonwillison.net/2026/Nov/21/muru/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-21T23:56:28+00:00"
+      }
+    ]
+  }
+}
