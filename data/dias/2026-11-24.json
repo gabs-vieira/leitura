@@ -1,0 +1,178 @@
+{
+  "deep": {
+    "data": "2026-11-24",
+    "titulo": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+    "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+    "fonte": "The Pragmatic Engineer",
+    "tema": "Carreira",
+    "resumo": "Before we start, a Black Friday special. With Black Friday coming up, you can get 20% off the full subscription for the first year - which is $120 for the year, or $10/month. Paid subscribers get access to full…",
+    "minutos": 28,
+    "pergunta": "Onde isso apareceria no código que você mantém hoje? O que mudaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Sentinel: CLI extremamente rápida",
+        "link": "https://www.tabnews.com.br/sebastianjnuwu/sentinel-cli-extremamente-rapida",
+        "fonte": "TabNews",
+        "data": "2026-11-24T19:19:14+00:00"
+      },
+      {
+        "titulo": "9/UX: a Macintosh-inspired desktop for 9front",
+        "link": "https://progrium.github.io/9ux/",
+        "fonte": "Lobsters",
+        "data": "2026-11-24T18:37:29+00:00"
+      },
+      {
+        "titulo": "Per Vognsen on the effect of AVX-512 on lexing and parsing",
+        "link": "https://mastodon.social/@pervognsen/117668394962974183",
+        "fonte": "Lobsters",
+        "data": "2026-11-24T18:11:49+00:00"
+      },
+      {
+        "titulo": "Beyond Linux: A Journey Through the Open Source Ecosystem",
+        "link": "https://it-notes.dragas.net/2026/11/17/beyond-linux-a-journey-through-the-open-source-ecosystem/",
+        "fonte": "Lobsters",
+        "data": "2026-11-24T17:45:29+00:00"
+      },
+      {
+        "titulo": "Como uma IA tenta se vender: o que testei em 3 dias (R$0) e o que aprendi",
+        "link": "https://www.tabnews.com.br/mannysurvival/como-uma-ia-tenta-se-vender-o-que-testei-em-3-dias-r0-e-o-que-aprendi",
+        "fonte": "TabNews",
+        "data": "2026-11-24T17:28:03+00:00"
+      },
+      {
+        "titulo": "Go Without Wires: TinyGo on ESP32",
+        "link": "https://www.youtube.com/watch?v=Vi5M-uD2x_U",
+        "fonte": "Lobsters",
+        "data": "2026-11-24T17:19:10+00:00"
+      },
+      {
+        "titulo": "Pitch: Como desenhei um globo histórico em canvas, sem biblioteca de mapas (140 territórios, 271 conexões)",
+        "link": "https://www.tabnews.com.br/Bellussi/como-desenhei-um-globo-historico-em-canvas-sem-biblioteca-de-mapas-140-territorios-271-conexoes",
+        "fonte": "TabNews",
+        "data": "2026-11-24T17:05:33+00:00"
+      },
+      {
+        "titulo": "SeaStore: Redesigning Ceph’s Storage Backend for CPU-Efficient NVMe Performance",
+        "link": "https://dl.acm.org/doi/10.1145/3828523.3857112",
+        "fonte": "Lobsters",
+        "data": "2026-11-24T16:35:47+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "GPT 6.2 Astra Solves a Historical Mystery",
+        "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T16:53:59+00:00"
+      },
+      {
+        "titulo": "datasette-charts 0.2a0",
+        "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T04:24:29+00:00"
+      },
+      {
+        "titulo": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+        "link": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+        "fonte": "Latent Space",
+        "data": "2026-11-24T04:14:16+00:00"
+      },
+      {
+        "titulo": "datasette-agent 0.7a1",
+        "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T03:45:57+00:00"
+      },
+      {
+        "titulo": "GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒",
+        "link": "https://tldr.tech/ai/2026-11-24",
+        "fonte": "TLDR AI",
+        "data": "2026-11-24T00:00:00+00:00"
+      },
+      {
+        "titulo": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+        "link": "https://simonwillison.net/2026/Nov/23/glm-54/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-23T23:40:49+00:00"
+      },
+      {
+        "titulo": "Ladybird's first alpha release",
+        "link": "https://simonwillison.net/2026/Nov/23/ladybird/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-23T21:46:35+00:00"
+      },
+      {
+        "titulo": "Import AI 482: Huawei kernel benchmarks; airborne drone detection; and a national lab's AI science benchmark",
+        "link": "https://importai.substack.com/p/import-ai-482-huawei-kernel-benchmarks",
+        "fonte": "Import AI",
+        "data": "2026-11-23T14:11:17+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Jobin Augustine: Pre-Calculating HugePages for PostgreSQL",
+        "link": "https://postgr.es/p/9Dr",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-24T09:42:35+00:00"
+      },
+      {
+        "titulo": "Aleksei Aleinikov: PostgreSQL VACUUM & Bloat: Dead Tuples, HOT Updates & Compaction",
+        "link": "https://postgr.es/p/9Dt",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-24T08:00:00+00:00"
+      },
+      {
+        "titulo": "Hubert 'depesz' Lubaczewski: Missed in PostgreSQL 19 : Support multi-line headers in COPY FROM command.",
+        "link": "https://postgr.es/p/9Dp",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-24T07:47:00+00:00"
+      },
+      {
+        "titulo": "Zsolt Parragi: The numbers of Postgres 19",
+        "link": "https://postgr.es/p/9Du",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-24T00:00:00+00:00"
+      },
+      {
+        "titulo": "Mayur B.: PostgreSQL 19: When the Planner Needs Adult Supervision",
+        "link": "https://postgr.es/p/9Do",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-23T18:09:49+00:00"
+      },
+      {
+        "titulo": "Stefan Fercot: When did I start contributing to pgBackRest, exactly?",
+        "link": "https://postgr.es/p/9Dj",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-23T09:00:00+00:00"
+      },
+      {
+        "titulo": "Nikolay Samokhvalov: PGAIBench and AAA: can AI safely change production Postgres?",
+        "link": "https://postgr.es/p/9Dh",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-23T01:00:27+00:00"
+      },
+      {
+        "titulo": "Why you shouldn't do application-level sharding",
+        "link": "https://planetscale.com/blog/why-you-shouldnt-do-app-level-sharding",
+        "fonte": "PlanetScale",
+        "data": "2026-11-23T00:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "When in doubt, flail about",
+        "link": "https://seangoedecke.com/when-in-doubt-flail-about/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-23T00:00:00+00:00"
+      },
+      {
+        "titulo": "Notes on OpenAI's perplexity reveal",
+        "link": "https://seangoedecke.com/notes-on-openais-perplexity-reveal/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-23T00:00:00+00:00"
+      }
+    ]
+  }
+}
