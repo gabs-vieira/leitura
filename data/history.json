@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-25",
+    "titulo": "Continuity is engineered, not given: How I learned to work with AI agents that forget everything",
+    "link": "https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
+    "fonte": "Building Nubank",
+    "tema": "Backend",
+    "resumo": "Author: Daniel Cavalli A long session with an AI agent feels like a conversation with someone who has been following along. You explain the problem once, refine it over a few messages, and by the twentieth exchange it…",
+    "minutos": 10,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  {
     "data": "2026-11-24",
     "titulo": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
     "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",

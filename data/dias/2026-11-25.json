@@ -1,0 +1,178 @@
+{
+  "deep": {
+    "data": "2026-11-25",
+    "titulo": "Continuity is engineered, not given: How I learned to work with AI agents that forget everything",
+    "link": "https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",
+    "fonte": "Building Nubank",
+    "tema": "Backend",
+    "resumo": "Author: Daniel Cavalli A long session with an AI agent feels like a conversation with someone who has been following along. You explain the problem once, refine it over a few messages, and by the twentieth exchange it…",
+    "minutos": 10,
+    "pergunta": "Qual afirmação do texto você mais duvida? Que evidência a sustentaria ou derrubaria?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "[Pitch] Trouxe a cultura open-source para uma reforma eleitoral: algoritmo biproporcional + simulador em Python puro (e preciso de ajuda)",
+        "link": "https://www.tabnews.com.br/Unevem/pitch-trouxe-a-cultura-open-source-para-uma-reforma-eleitoral-algoritmo-biproporcional-simulador-em-python-puro-e-preciso-de-ajuda",
+        "fonte": "TabNews",
+        "data": "2026-11-25T17:56:06+00:00"
+      },
+      {
+        "titulo": "1Password Security Incident",
+        "link": "https://1password.com/blog/update-on-nov-2026-security-incident",
+        "fonte": "Hacker News (200+ pts)",
+        "data": "2026-11-25T17:18:26+00:00"
+      },
+      {
+        "titulo": "DeepMind's Gemini Robotics 2.5 Aims to Make Robots Safer, More Dexterous, and Faster Learners",
+        "link": "https://www.infoq.com/news/2026/11/deepmind-gemini-robotics-2-5/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-25T17:00:00+00:00"
+      },
+      {
+        "titulo": "Pitch: Criei um site de investimentos sem anúncios com foco em dados reais e custo R$ 0 de infra. Queria feedback técnico!",
+        "link": "https://www.tabnews.com.br/lucasbedo/criei-um-site-de-investimentos-sem-anuncios-com-foco-em-dados-reais-e-custo-r-0-de-infra-queria-feedback-tecnico",
+        "fonte": "TabNews",
+        "data": "2026-11-25T16:27:29+00:00"
+      },
+      {
+        "titulo": "Pitch: quando uma falha de homologação bloqueia a entrega?",
+        "link": "https://www.tabnews.com.br/oocarinaa/pitch-quando-uma-falha-de-homologacao-bloqueia-a-entrega",
+        "fonte": "TabNews",
+        "data": "2026-11-25T16:26:21+00:00"
+      },
+      {
+        "titulo": "VLAN para a IoT de casa: criar a VLAN não isola nada, quem isola é a regra no roteador",
+        "link": "https://www.tabnews.com.br/bmarino01/vlan-para-a-iot-de-casa-criar-a-vlan-nao-isola-nada-quem-isola-e-a-regra-no-roteador",
+        "fonte": "TabNews",
+        "data": "2026-11-25T15:32:03+00:00"
+      },
+      {
+        "titulo": "Pitch: como orçar um freela de n8n sem misturar implantação e mensalidade",
+        "link": "https://www.tabnews.com.br/oocarinaa/pitch-como-orcar-um-freela-de-n8n-sem-misturar-implantacao-e-mensalidade",
+        "fonte": "TabNews",
+        "data": "2026-11-25T15:29:47+00:00"
+      },
+      {
+        "titulo": "GitHub Ditches CSS-in-JS for CSS Modules, Reports 55% Faster SSR After Three-Year Migration",
+        "link": "https://www.infoq.com/news/2026/11/github-css-migration/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-25T15:29:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "How Anthropic builds software in 2026 with Katelyn Lesse",
+        "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-25T17:31:32+00:00"
+      },
+      {
+        "titulo": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-24T19:16:38+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Umair Shahid: Where 39% of the WAL Came From",
+        "link": "https://postgr.es/p/9DH",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T16:32:33+00:00"
+      },
+      {
+        "titulo": "DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious",
+        "link": "https://postgr.es/p/9DG",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T15:27:08+00:00"
+      },
+      {
+        "titulo": "Ismaël Mejía: PostgreSQL 19 is now supported in pglayers",
+        "link": "https://postgr.es/p/9DF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T12:42:05+00:00"
+      },
+      {
+        "titulo": "Peter Eisentraut: PgBouncer visits the CNCF Security Slam",
+        "link": "https://postgr.es/p/9DA",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T05:00:00+00:00"
+      },
+      {
+        "titulo": "How to make sure your developers never write for the company blog",
+        "link": "http://notes.eatonphil.com/2026-11-25-how-to-make-sure-developers-never-write-for-the-company-blog.html",
+        "fonte": "Phil Eaton",
+        "data": "2026-11-25T00:00:00+00:00"
+      },
+      {
+        "titulo": "Hollis Varden: Hash joins, planner statistics and index upkeep on PostgreSQL 18",
+        "link": "https://postgr.es/p/9DD",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T00:00:00+00:00"
+      },
+      {
+        "titulo": "Hollis Varden: Eleven small measurements on PostgreSQL 18: joins, casts, TOAST and types",
+        "link": "https://postgr.es/p/9DC",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T00:00:00+00:00"
+      },
+      {
+        "titulo": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+        "link": "https://muratbuffalo.blogspot.com/2026/11/meaningful-human-in-loop-checking-of.html",
+        "fonte": "Murat Demirbas (Metadata)",
+        "data": "2026-11-24T22:11:31+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+        "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "fonte": "Latent Space",
+        "data": "2026-11-25T04:29:07+00:00"
+      },
+      {
+        "titulo": "OpenAI solves matrix math 🔢, SWE-2.1 💻, swarm limitations 🐝",
+        "link": "https://tldr.tech/ai/2026-11-25",
+        "fonte": "TLDR AI",
+        "data": "2026-11-25T00:00:00+00:00"
+      },
+      {
+        "titulo": "Three LLM inflection points in twelve months",
+        "link": "https://simonwillison.net/2026/Nov/24/llm-inflection-points/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T23:02:07+00:00"
+      },
+      {
+        "titulo": "GPT 6.2 Astra Solves a Historical Mystery",
+        "link": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T16:53:59+00:00"
+      },
+      {
+        "titulo": "datasette-charts 0.2a0",
+        "link": "https://simonwillison.net/2026/Nov/24/datasette-charts/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T04:24:29+00:00"
+      },
+      {
+        "titulo": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+        "link": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft/",
+        "fonte": "Latent Space",
+        "data": "2026-11-24T04:14:16+00:00"
+      },
+      {
+        "titulo": "datasette-agent 0.7a1",
+        "link": "https://simonwillison.net/2026/Nov/24/datasette-agent/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-24T03:45:57+00:00"
+      },
+      {
+        "titulo": "GLM-5.4 loops 🔁, Claude Ship 🚢, OpenAI secures Linux 🔒",
+        "link": "https://tldr.tech/ai/2026-11-24",
+        "fonte": "TLDR AI",
+        "data": "2026-11-24T00:00:00+00:00"
+      }
+    ]
+  }
+}
