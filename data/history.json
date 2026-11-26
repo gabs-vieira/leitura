@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-26",
+    "titulo": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+    "link": "https://muratbuffalo.blogspot.com/2026/11/meaningful-human-in-loop-checking-of.html",
+    "fonte": "Murat Demirbas (Metadata)",
+    "tema": "Databases",
+    "resumo": "When the only comment on a PR is \"LGTM\", due diligence has not been done. A glance is not understanding. Understanding has levels, and we almost always overestimate ours. But the LGTM stamps the code as correct anyway.…",
+    "minutos": 5,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  {
     "data": "2026-11-25",
     "titulo": "Continuity is engineered, not given: How I learned to work with AI agents that forget everything",
     "link": "https://building.nu.com/continuity-is-engineered-not-given-how-i-learned-to-work-with-ai-agents-that-forget-everything/",

@@ -1,0 +1,178 @@
+{
+  "deep": {
+    "data": "2026-11-26",
+    "titulo": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
+    "link": "https://muratbuffalo.blogspot.com/2026/11/meaningful-human-in-loop-checking-of.html",
+    "fonte": "Murat Demirbas (Metadata)",
+    "tema": "Databases",
+    "resumo": "When the only comment on a PR is \"LGTM\", due diligence has not been done. A glance is not understanding. Understanding has levels, and we almost always overestimate ours. But the LGTM stamps the code as correct anyway.…",
+    "minutos": 5,
+    "pergunta": "Se fosse aplicar isso amanhã, qual seria o primeiro passo, e o primeiro risco?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Como funciona a integração entre ERP e MES no chão de fábrica?",
+        "link": "https://www.tabnews.com.br/RedInd/como-funciona-a-integracao-entre-erp-e-mes-no-chao-de-fabrica",
+        "fonte": "TabNews",
+        "data": "2026-11-26T17:46:45+00:00"
+      },
+      {
+        "titulo": "[PITCH] Flagra: os convidados mandam fotos pelo celular e elas aparecem no telão da festa, ao vivo",
+        "link": "https://www.tabnews.com.br/mmiglioranza/pitch-flagra-os-convidados-mandam-fotos-pelo-celular-e-elas-aparecem-no-telao-da-festa-ao-vivo",
+        "fonte": "TabNews",
+        "data": "2026-11-26T17:32:09+00:00"
+      },
+      {
+        "titulo": "Dúvidas sobre governança de dados, acessos e entregáveis para clientes",
+        "link": "https://www.tabnews.com.br/navyblueiphone/duvidas-sobre-governanca-de-dados-acessos-e-entregaveis-para-clientes",
+        "fonte": "TabNews",
+        "data": "2026-11-26T17:17:38+00:00"
+      },
+      {
+        "titulo": "QCon San Francisco 2026: How to Kill the Code Review",
+        "link": "https://www.infoq.com/news/2026/11/qcon-sf-26-kill-code-review/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-26T17:16:00+00:00"
+      },
+      {
+        "titulo": "The Life of a Database Row: What Really Happens Behind the Scenes",
+        "link": "https://blog.bytebytego.com/p/the-life-of-a-database-row-what-really",
+        "fonte": "ByteByteGo",
+        "data": "2026-11-26T16:30:34+00:00"
+      },
+      {
+        "titulo": "London Meetup - 13th December 2026",
+        "link": "https://lobste.rs/s/l8cjcz/london_meetup_13th_december_2026",
+        "fonte": "Lobsters",
+        "data": "2026-11-26T16:09:08+00:00"
+      },
+      {
+        "titulo": "Pitch: LotoPredict — gerador de jogos com odds transparentes (projeto próprio, sem previsão)",
+        "link": "https://www.tabnews.com.br/nelsonnedes/pitch-lotopredict-gerador-de-jogos-com-odds-transparentes-projeto-proprio-sem-previsao",
+        "fonte": "TabNews",
+        "data": "2026-11-26T15:58:29+00:00"
+      },
+      {
+        "titulo": "A Anthropic é ou não é a Evil Corp?",
+        "link": "https://www.tabnews.com.br/JoaoPster/a-anthropic-e-ou-nao-e-a-evil-corp",
+        "fonte": "TabNews",
+        "data": "2026-11-26T14:54:35+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "Quoting Jack Despain Zhou",
+        "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-26T15:09:31+00:00"
+      },
+      {
+        "titulo": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-26T06:08:25+00:00"
+      },
+      {
+        "titulo": "Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝",
+        "link": "https://tldr.tech/ai/2026-11-26",
+        "fonte": "TLDR AI",
+        "data": "2026-11-26T00:00:00+00:00"
+      },
+      {
+        "titulo": "Quoting Scott Aaronson",
+        "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-25T23:26:32+00:00"
+      },
+      {
+        "titulo": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+        "link": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-25T22:28:01+00:00"
+      },
+      {
+        "titulo": "[AINews] Math Proofs Are Landing Faster Than We Can Read Them",
+        "link": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them/",
+        "fonte": "Latent Space",
+        "data": "2026-11-25T22:23:41+00:00"
+      },
+      {
+        "titulo": "datasette-charts 0.3a0",
+        "link": "https://simonwillison.net/2026/Nov/25/datasette-charts/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-25T18:16:50+00:00"
+      },
+      {
+        "titulo": "[AINews] Gemini 4 Neon marks GDM's full return as a Frontier Lab",
+        "link": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab/",
+        "fonte": "Latent Space",
+        "data": "2026-11-25T04:29:07+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 46",
+        "link": "https://postgr.es/p/9DK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T12:12:13+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: search_path",
+        "link": "https://postgr.es/p/9DI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T02:00:00+00:00"
+      },
+      {
+        "titulo": "Jan Kristof Nidzwetzki: Barriers, Volatile, and Atomics: How PostgreSQL Orders Memory Accesses",
+        "link": "https://postgr.es/p/9DL",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T00:00:00+00:00"
+      },
+      {
+        "titulo": "Umair Shahid: Where 39% of the WAL Came From",
+        "link": "https://postgr.es/p/9DH",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T16:32:33+00:00"
+      },
+      {
+        "titulo": "DARIA NIKOLAENKO: PostgreSQL DDL/DML Migration Checklist for the Anxious",
+        "link": "https://postgr.es/p/9DG",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T15:27:08+00:00"
+      },
+      {
+        "titulo": "Ismaël Mejía: PostgreSQL 19 is now supported in pglayers",
+        "link": "https://postgr.es/p/9DF",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T12:42:05+00:00"
+      },
+      {
+        "titulo": "Peter Eisentraut: PgBouncer visits the CNCF Security Slam",
+        "link": "https://postgr.es/p/9DA",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-25T05:00:00+00:00"
+      },
+      {
+        "titulo": "How to make sure your developers never write for the company blog",
+        "link": "http://notes.eatonphil.com/2026-11-25-how-to-make-sure-developers-never-write-for-the-company-blog.html",
+        "fonte": "Phil Eaton",
+        "data": "2026-11-25T00:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "How Anthropic builds software in 2026 with Katelyn Lesse",
+        "link": "https://newsletter.pragmaticengineer.com/p/how-anthropic-builds-software-in",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-25T17:31:32+00:00"
+      },
+      {
+        "titulo": "The Pragmatic Engineer Essay Challenge: Category Winners (Part 1)",
+        "link": "https://newsletter.pragmaticengineer.com/p/the-pragmatic-engineer-essay-challenge",
+        "fonte": "The Pragmatic Engineer",
+        "data": "2026-11-24T19:16:38+00:00"
+      }
+    ]
+  }
+}
