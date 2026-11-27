@@ -1,5 +1,15 @@
 [
   {
+    "data": "2026-11-27",
+    "titulo": "Tech Folklore: When engineering decisions outlive their reasoning",
+    "link": "https://building.nu.com/tech-folklore-when-engineering-decisions-outlive-their-reasoning/",
+    "fonte": "Building Nubank",
+    "tema": "Backend",
+    "resumo": "Written by: Breno Imagine joining an engineering team and proposing a different approach to a familiar problem. Before the discussion gets very far, someone explains that the team tried something similar years ago and…",
+    "minutos": 8,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  {
     "data": "2026-11-26",
     "titulo": "Meaningful Human-in-the-Loop Checking of GenAI Synthesis for Restricted Languages",
     "link": "https://muratbuffalo.blogspot.com/2026/11/meaningful-human-in-loop-checking-of.html",

@@ -1,0 +1,172 @@
+{
+  "deep": {
+    "data": "2026-11-27",
+    "titulo": "Tech Folklore: When engineering decisions outlive their reasoning",
+    "link": "https://building.nu.com/tech-folklore-when-engineering-decisions-outlive-their-reasoning/",
+    "fonte": "Building Nubank",
+    "tema": "Backend",
+    "resumo": "Written by: Breno Imagine joining an engineering team and proposing a different approach to a familiar problem. Before the discussion gets very far, someone explains that the team tried something similar years ago and…",
+    "minutos": 8,
+    "pergunta": "Que conceito do texto você não conseguiria explicar sem consultar? Anote e pesquise."
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Precisa de modelos sem censura (abliterated, para cibersegurança e NSFW) ? Conheça a Venice.ai",
+        "link": "https://www.tabnews.com.br/Oletros/precisa-de-modelos-sem-censura-abliterated-para-ciberseguranca-e-nsfw-conheca-a-venice-ai",
+        "fonte": "TabNews",
+        "data": "2026-11-27T18:19:59+00:00"
+      },
+      {
+        "titulo": "Objections to .php application being published on ICANN site",
+        "link": "https://pub.roddie.digital/3n3aavxi6hc2g",
+        "fonte": "Lobsters",
+        "data": "2026-11-27T18:16:09+00:00"
+      },
+      {
+        "titulo": "[Pitch] Tentei acelerar meu código com uma RTX e acabei desenvolvendo um motor computacional em Rust",
+        "link": "https://www.tabnews.com.br/zNezu/pitch-tentei-acelerar-meu-codigo-com-uma-rtx-e-acabei-desenvolvendo-um-motor-computacional-em-rust",
+        "fonte": "TabNews",
+        "data": "2026-11-27T18:14:57+00:00"
+      },
+      {
+        "titulo": "Por que decidi implementar MCP no meu SaaS antes mesmo de escalar",
+        "link": "https://www.tabnews.com.br/dougpica/por-que-decidi-implementar-mcp-no-meu-saas-antes-mesmo-de-escalar",
+        "fonte": "TabNews",
+        "data": "2026-11-27T17:59:08+00:00"
+      },
+      {
+        "titulo": "Pitch: NativeForge - Nova Era da Programação C/C++ Pelo Celular Android",
+        "link": "https://www.tabnews.com.br/deuzivanviana/pitch-nativeforge-nova-era-da-programacao-c-c-pelo-celular-android",
+        "fonte": "TabNews",
+        "data": "2026-11-27T17:57:17+00:00"
+      },
+      {
+        "titulo": "Teachback: aprender enquanto programo com IA",
+        "link": "https://www.tabnews.com.br/pedroven/teachback-aprender-enquanto-programo-com-ia",
+        "fonte": "TabNews",
+        "data": "2026-11-27T17:57:10+00:00"
+      },
+      {
+        "titulo": "De uma turma presencial a uma plataforma online: o que aprendi construindo o Semeando Devs",
+        "link": "https://www.tabnews.com.br/JoissonJdm/de-uma-turma-presencial-a-uma-plataforma-online-o-que-aprendi-construindo-o-semeando-devs",
+        "fonte": "TabNews",
+        "data": "2026-11-27T17:52:36+00:00"
+      },
+      {
+        "titulo": "Pitch: Crypto AOD, cotação de cripto na tela de bloqueio e no AOD do Galaxy (e o que descobri sobre os widgets de tela de bloqueio da Samsung)",
+        "link": "https://www.tabnews.com.br/lalatap/pitch-crypto-aod-cotacao-de-cripto-na-tela-de-bloqueio-e-no-aod-do-galaxy-e-o-que-descobri-sobre-os-widgets-de-tela-de-bloqueio-da-samsung",
+        "fonte": "TabNews",
+        "data": "2026-11-27T17:41:40+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Ashutosh Bapat: A morning well spent nurturing the Talk Solicitation Program",
+        "link": "https://postgr.es/p/9Er",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T05:38:41+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: segment_size",
+        "link": "https://postgr.es/p/9D_",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T02:00:00+00:00"
+      },
+      {
+        "titulo": "Dan Langille: Galène, part 2: tests passed, old data repaired",
+        "link": "https://postgr.es/p/9D-",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T00:02:22+00:00"
+      },
+      {
+        "titulo": "Jianghua yang: One tree, two major versions: adapting pg_orca to PostgreSQL 19",
+        "link": "https://postgr.es/p/9Ez",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T00:00:00+00:00"
+      },
+      {
+        "titulo": "Radim Marek: ANALYZE on a mostly-NULL column",
+        "link": "https://postgr.es/p/9DN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T21:00:43+00:00"
+      },
+      {
+        "titulo": "Cornelia Biacsics: Contributions for week 46",
+        "link": "https://postgr.es/p/9DK",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T12:12:13+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: search_path",
+        "link": "https://postgr.es/p/9DI",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T02:00:00+00:00"
+      },
+      {
+        "titulo": "Jan Kristof Nidzwetzki: Barriers, Volatile, and Atomics: How PostgreSQL Orders Memory Accesses",
+        "link": "https://postgr.es/p/9DL",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T00:00:00+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Who gets to decide if something is written by AI?",
+        "link": "https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-27T00:00:00+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+        "link": "https://tldr.tech/ai/2026-11-27",
+        "fonte": "TLDR AI",
+        "data": "2026-11-27T00:00:00+00:00"
+      },
+      {
+        "titulo": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+        "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-26T23:02:48+00:00"
+      },
+      {
+        "titulo": "Quoting Jack Despain Zhou",
+        "link": "https://simonwillison.net/2026/Nov/26/jack-despain-zhou/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-26T15:09:31+00:00"
+      },
+      {
+        "titulo": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+        "link": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-26T06:08:25+00:00"
+      },
+      {
+        "titulo": "The New York Times warns photographers not to update Photoshop over AI features",
+        "link": "https://simonwillison.net/2026/Nov/26/hn-50651685/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-26T05:08:46+00:00"
+      },
+      {
+        "titulo": "Opus 5.6 testing 🤖, OpenAI private Inference 🔒, Jev is probably Qwen 📝",
+        "link": "https://tldr.tech/ai/2026-11-26",
+        "fonte": "TLDR AI",
+        "data": "2026-11-26T00:00:00+00:00"
+      },
+      {
+        "titulo": "Quoting Scott Aaronson",
+        "link": "https://simonwillison.net/2026/Nov/25/scott-aaronson/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-25T23:26:32+00:00"
+      },
+      {
+        "titulo": "The Revolution vs The Renaissance — Thariq Shihipar, OpenAI",
+        "link": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-25T22:28:01+00:00"
+      }
+    ]
+  }
+}
