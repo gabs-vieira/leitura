@@ -1,0 +1,148 @@
+{
+  "deep": {
+    "data": "2026-11-28",
+    "titulo": "[AINews] Inside the exploding Coding Data Market",
+    "link": "https://latent.space/p/ainews-inside-the-exploding-coding-data-market/",
+    "fonte": "Latent Space",
+    "tema": "IA",
+    "resumo": "There’s a lot of online drama around potential Claude sabotage and general trust in Anthropic , but we’re hesitant to give it more full title story treatment at this point barring further evidence (see below). In it’s…",
+    "minutos": 26,
+    "pergunta": "O que isso muda (ou confirma) no que você já sabia sobre o assunto?"
+  },
+  "news": {
+    "Backend": [
+      {
+        "titulo": "Engine44 STUDIO",
+        "link": "https://www.tabnews.com.br/Engine44studioIA/engine44-studio",
+        "fonte": "TabNews",
+        "data": "2026-11-28T17:03:25+00:00"
+      },
+      {
+        "titulo": "Como rodar Claude Code e OpenCode pagando por token (cálculo real com 90% de cache e sem trava de 5h)",
+        "link": "https://www.tabnews.com.br/proxystacks/como-rodar-claude-code-e-opencode-pagando-por-token-calculo-real-com-90-por-cento-de-cache-e-sem-trava-de-5h",
+        "fonte": "TabNews",
+        "data": "2026-11-28T16:47:11+00:00"
+      },
+      {
+        "titulo": "Spotify September Outage: What we learnt",
+        "link": "https://engineering.atspotify.com/2026/11/september-29-outage-incident-report-what-we-learnt",
+        "fonte": "Lobsters",
+        "data": "2026-11-28T16:00:29+00:00"
+      },
+      {
+        "titulo": "Google Enhances its Open-Source MaxText Training Framework for Long-Context Training",
+        "link": "https://www.infoq.com/news/2026/11/google-long-context-training/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+        "fonte": "InfoQ",
+        "data": "2026-11-28T16:00:00+00:00"
+      },
+      {
+        "titulo": "Extensão que mostra a tradução embaixo de cada mensagem no WhatsApp Web, Telegram Web e Messenger",
+        "link": "https://www.tabnews.com.br/chuyi/extensao-que-mostra-a-traducao-embaixo-de-cada-mensagem-no-whatsapp-web-telegram-web-e-messenger",
+        "fonte": "TabNews",
+        "data": "2026-11-28T15:59:43+00:00"
+      },
+      {
+        "titulo": "Atari Homebrew Awards Cancelled",
+        "link": "https://forums.atariage.com/topic/394894-atari-homebrew-awards-cancelled/",
+        "fonte": "Lobsters",
+        "data": "2026-11-28T15:50:53+00:00"
+      },
+      {
+        "titulo": "Classic Shift Ciphers with lens and finite-typelits",
+        "link": "https://jackkelly.name/blog/archives/2026/11/26/classic_shift_ciphers_with_lens_and_finite-typelits/index.html",
+        "fonte": "Lobsters",
+        "data": "2026-11-28T14:55:12+00:00"
+      },
+      {
+        "titulo": "Optimistic Update vs. Immediate Intent",
+        "link": "https://romshark.github.io/ux-immediate-intent/",
+        "fonte": "Lobsters",
+        "data": "2026-11-28T14:14:55+00:00"
+      }
+    ],
+    "Databases": [
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: send_abort_for_crash and send_abort_for_kill",
+        "link": "https://postgr.es/p/9EA",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-28T02:00:00+00:00"
+      },
+      {
+        "titulo": "Ashutosh Bapat: A morning well spent nurturing the Talk Solicitation Program",
+        "link": "https://postgr.es/p/9Er",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T05:38:41+00:00"
+      },
+      {
+        "titulo": "Christophe Pettus: All Your GUCs in a Row: segment_size",
+        "link": "https://postgr.es/p/9D_",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T02:00:00+00:00"
+      },
+      {
+        "titulo": "Dan Langille: Galène, part 2: tests passed, old data repaired",
+        "link": "https://postgr.es/p/9D-",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T00:02:22+00:00"
+      },
+      {
+        "titulo": "Jianghua yang: One tree, two major versions: adapting pg_orca to PostgreSQL 19",
+        "link": "https://postgr.es/p/9Ez",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-27T00:00:00+00:00"
+      },
+      {
+        "titulo": "Radim Marek: ANALYZE on a mostly-NULL column",
+        "link": "https://postgr.es/p/9DN",
+        "fonte": "Planet PostgreSQL",
+        "data": "2026-11-26T21:00:43+00:00"
+      }
+    ],
+    "IA": [
+      {
+        "titulo": "datasette-charts 0.4a0",
+        "link": "https://simonwillison.net/2026/Nov/27/datasette-charts/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-27T23:57:17+00:00"
+      },
+      {
+        "titulo": "Inside the AI Training Data Market — Gabe Greenberg, G2i",
+        "link": "https://latent.space/p/inside_the_ai_training_data_market_gabe_greenberg_g2i/",
+        "fonte": "Latent Space",
+        "data": "2026-11-27T22:19:18+00:00"
+      },
+      {
+        "titulo": "datasette-mcp 0.4",
+        "link": "https://simonwillison.net/2026/Nov/27/datasette-mcp/",
+        "fonte": "Simon Willison",
+        "data": "2026-11-27T00:26:17+00:00"
+      },
+      {
+        "titulo": "OpenAI cost controls 💰, measuring RSI 📈, looped transformers ➰",
+        "link": "https://tldr.tech/ai/2026-11-27",
+        "fonte": "TLDR AI",
+        "data": "2026-11-27T00:00:00+00:00"
+      },
+      {
+        "titulo": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
+        "link": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai/",
+        "fonte": "Latent Space",
+        "data": "2026-11-26T23:02:48+00:00"
+      }
+    ],
+    "Carreira": [
+      {
+        "titulo": "Shaping the industry through independent reproduction of results within our companies",
+        "link": "https://lethain.com/independent-reproduction-of-results/",
+        "fonte": "Irrational Exuberance (Will Larson)",
+        "data": "2026-11-27T13:00:00+00:00"
+      },
+      {
+        "titulo": "Who gets to decide if something is written by AI?",
+        "link": "https://seangoedecke.com/who-gets-to-decide-if-something-is-written-by-ai/",
+        "fonte": "Sean Goedecke",
+        "data": "2026-11-27T00:00:00+00:00"
+      }
+    ]
+  }
+}
